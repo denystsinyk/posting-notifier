@@ -1,11 +1,11 @@
 """
-Polls four community new-grad job repos and notifies on rows that were
+Polls four community internship job repos and notifies on rows that were
 added since the last poll:
 
-- SimplifyJobs/New-Grad-Positions (SWE section)
-- speedyapply/2027-SWE-College-Jobs (NEW_GRAD_USA.md)
-- vanshb03/New-Grad-2027
-- ApplyGuy/2027-New-Grad-Jobs
+- SimplifyJobs/Summer2027-Internships (SWE section)
+- speedyapply/2027-SWE-College-Jobs (README.md)
+- vanshb03/Summer2027-Internships
+- ApplyGuy/2027-Internships
 
 The repos overlap heavily, so the same role usually shows up in all of
 them within a day or two. A notification for a company + title starts a
@@ -31,9 +31,9 @@ from sources import SOURCES
 from sources.common import get_file, latest_sha
 from state_io import load, save
 
-SEEN_PATH = "state/seen.json"          # {source: [job_id, ...]}
-NOTIFIED_PATH = "state/notified.json"  # {role_key: {notified_at, ...}}
-HEADS_PATH = "state/heads.json"        # {source: {sha, etag}}
+SEEN_PATH = "state/intern_seen.json"          # {source: [job_id, ...]}
+NOTIFIED_PATH = "state/intern_notified.json"  # {role_key: {notified_at, ...}}
+HEADS_PATH = "state/intern_heads.json"        # {source: {sha, etag}}
 COOLDOWN_DAYS = float(os.environ.get("COOLDOWN_DAYS", 3))
 # Records are kept past the cooldown only for reference; prune eventually.
 RETENTION_DAYS = 30

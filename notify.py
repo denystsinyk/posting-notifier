@@ -16,7 +16,7 @@ def send(job: dict):
         NTFY_URL,
         data=body.encode("utf-8"),
         headers={
-            "Title": "New grad posting",
+            "Title": "New internship posting",
             "Priority": "high",
             "Tags": "briefcase",
             "Click": job["url"],

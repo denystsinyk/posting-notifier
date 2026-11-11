@@ -1,6 +1,6 @@
 """
 Parses the markdown pipe-tables in speedyapply/2027-SWE-College-Jobs'
-NEW_GRAD_USA.md (FAANG+, Quant, and Other sections all share the shape
+README.md (FAANG+, Quant, and Other sections all share the shape
 Company | Position | Location | [Salary] | Posting | Age).
 """
 import re
@@ -9,7 +9,7 @@ from .common import strip_tags, first_href, pipe_cells, job
 
 NAME = REPO = "speedyapply/2027-SWE-College-Jobs"
 BRANCH = "main"
-PATH = "NEW_GRAD_USA.md"
+PATH = "README.md"
 
 # Real data rows start with a company link; header/separator rows don't.
 ROW_RE = re.compile(r'^\|\s*<a href="[^"]*"><strong>.*\|\s*$', re.M)

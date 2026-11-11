@@ -3,7 +3,7 @@ import unittest
 from sources import applyguy, simplify, speedyapply, vansh
 
 SIMPLIFY = """
-## 💻 Software Engineering New Grad Roles
+## 💻 Software Engineering Internship Roles
 <table><tbody>
 <tr><td><strong><a href="x">Acme</a></strong></td><td>Software Engineer</td><td>NYC</td>
 <td><a href="https://jobs.acme.com/1?utm_source=Simplify"><img alt="Apply"></a></td><td>0d</td></tr>
@@ -11,7 +11,7 @@ SIMPLIFY = """
 <td><a href="https://jobs.acme.com/2"><img alt="Apply"></a></td><td>1d</td></tr>
 <tr><td>Closed Co</td><td>SWE</td><td>LA</td><td>🔒</td><td>3d</td></tr>
 </tbody></table>
-## 📱 Product Management New Grad Roles
+## 📱 Product Management Internship Roles
 <tr><td>PM Co</td><td>PM</td><td>NYC</td><td><a href="https://pm.co/1">a</a></td><td>0d</td></tr>
 """
 
@@ -29,10 +29,10 @@ VANSH = """
 """
 
 APPLYGUY = """
-| Company | Role | Location | Posted | Actions |
+| Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---:|---|
-| Etsy | Software Engineer I | Brooklyn, NY | Today | [![Apply with Apply Guy](a.svg)](https://applyguy.ai/jobs?job=1&utm_source=github) [![View original listing](v.svg)](https://etsy.wd5.myworkdayjobs.com/job/SE-I_JR1) |
-| Amazon | SDE I | Seattle, WA | Today | [![View original listing](v.svg)](https://www.amazon.jobs/en/jobs/1) |
+| Etsy | Software Engineer I | Brooklyn, NY | Summer 2027 | Today | [![Apply with Apply Guy](a.svg)](https://applyguy.ai/jobs?job=1&utm_source=github) [![View original listing](v.svg)](https://etsy.wd5.myworkdayjobs.com/job/SE-I_JR1) |
+| Amazon | SDE I | Seattle, WA | Summer 2027 | Today | [![View original listing](v.svg)](https://www.amazon.jobs/en/jobs/1) |
 """
 
 

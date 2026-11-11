@@ -1,17 +1,17 @@
 """
-Parses the HTML job table in SimplifyJobs/New-Grad-Positions' README.md,
-scoped to the "Software Engineering New Grad Roles" section (the repo
+Parses the HTML job table in SimplifyJobs/Summer2027-Internships' README.md,
+scoped to the "Software Engineering Internship Roles" section (the repo
 also lists PM, Data Science, Quant, and Hardware roles).
 """
 import re
 
 from .common import strip_tags, first_href, job
 
-NAME = REPO = "SimplifyJobs/New-Grad-Positions"
+NAME = REPO = "SimplifyJobs/Summer2027-Internships"
 BRANCH = "dev"
 PATH = "README.md"
 
-SECTION_START = re.compile(r"## .*Software Engineering New Grad Roles")
+SECTION_START = re.compile(r"## .*Software Engineering Internship Roles")
 NEXT_SECTION = re.compile(r"\n## ")
 ROW_RE = re.compile(r"<tr>(.*?)</tr>", re.S)
 CELL_RE = re.compile(r"<td[^>]*>(.*?)</td>", re.S)

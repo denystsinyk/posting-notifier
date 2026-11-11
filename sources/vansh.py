@@ -1,11 +1,11 @@
 """
-Parses the markdown table in vanshb03/New-Grad-2027's README.md:
+Parses the markdown table in vanshb03/Summer2027-Internships's README.md:
 | **Company** | Role | Location | <a href=...>Apply</a> | Date Posted |
 Closed rows have 🔒 in place of the apply link.
 """
 from .common import strip_tags, first_href, pipe_cells, job
 
-NAME = REPO = "vanshb03/New-Grad-2027"
+NAME = REPO = "vanshb03/Summer2027-Internships"
 BRANCH = "dev"
 PATH = "README.md"
 

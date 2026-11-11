@@ -1,4 +1,4 @@
-name: Poll new-grad repos
+name: Poll internship repos
 
 # Triggered every 5 minutes by an external cron calling the
 # workflow_dispatch API (see README). GitHub's own schedule only actually
@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: poll-new-grad-repos
+  group: poll-internship-repos
   cancel-in-progress: false
 
 jobs:
@@ -40,4 +40,4 @@ jobs:
       # failed send) so the sources that did succeed keep their progress.
       - name: Commit updated state
         if: always() && steps.poll.outcome != 'skipped'
-        run: python3 sync_state.py "Update seen postings [skip ci]" state/seen.json state/notified.json state/heads.json
+        run: python3 sync_state.py "Update seen postings [skip ci]" state/intern_seen.json state/intern_notified.json state/intern_heads.json

@@ -1,6 +1,6 @@
 """
-Parses the markdown table in ApplyGuy/2027-New-Grad-Jobs' README.md:
-| Company | Role | Location | Posted | Actions |
+Parses the markdown table in ApplyGuy/2027-Internships' README.md:
+| Company | Role | Location | Season | Posted | Actions |
 Actions holds an applyguy.ai redirect and a "View original listing" link;
 the original listing is preferred since it's the employer's own URL.
 """
@@ -8,7 +8,7 @@ import re
 
 from .common import strip_tags, pipe_cells, job
 
-NAME = REPO = "ApplyGuy/2027-New-Grad-Jobs"
+NAME = REPO = "ApplyGuy/2027-Internships"
 BRANCH = "main"
 PATH = "README.md"
 
