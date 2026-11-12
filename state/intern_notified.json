@@ -11,6 +11,18 @@
       "https://go.vansh.nyc/1vQ?s=y"
     ]
   },
+  "argonne::business enterprise information intern software solutions systems": {
+    "company": "Argonne",
+    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Intern \u2013 Business Information Systems, Enterprise Software Solutions",
+    "url": "https://argonne.wd1.myworkdayjobs.com/edu_pub/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702",
+    "urls": [
+      "https://argonne.wd1.myworkdayjobs.com/edu_pub/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702"
+    ]
+  },
   "austalusa::cybersecurity intern": {
     "company": "Austal USA",
     "notified_at": "2026-11-12T05:54:59.124079+00:00",
@@ -119,6 +131,18 @@
       "https://go.vansh.nyc/1vI?s=y"
     ]
   },
+  "caci::development embedded intern software summer": {
+    "company": "CACI",
+    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Embedded Software Development Intern - Summer 2027",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147",
+    "urls": [
+      "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147"
+    ]
+  },
   "cariad::and control deployment engineer intern planning vla": {
     "company": "CARIAD",
     "notified_at": "2026-11-12T14:42:41.429520+00:00",
@@ -129,6 +153,44 @@
     "url": "https://go.vansh.nyc/1wa?s=y",
     "urls": [
       "https://go.vansh.nyc/1wa?s=y"
+    ]
+  },
+  "chathamfinancial::engineer intern software": {
+    "company": "Chatham Financial",
+    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348",
+    "urls": [
+      "https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349",
+      "https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348"
+    ]
+  },
+  "clearwateranalytics::development intern software": {
+    "company": "Clearwater Analytics",
+    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Development Intern",
+    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12188",
+    "urls": [
+      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12186",
+      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12188"
+    ]
+  },
+  "copart::engineering intern software": {
+    "company": "Copart",
+    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965",
+    "urls": [
+      "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965"
     ]
   },
   "epicgames::intern programmer tools": {
@@ -153,6 +215,30 @@
     "url": "https://go.vansh.nyc/1vB?s=y",
     "urls": [
       "https://go.vansh.nyc/1vB?s=y"
+    ]
+  },
+  "gpc::developer intern software": {
+    "company": "GPC",
+    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Developer Intern",
+    "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140",
+    "urls": [
+      "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140"
+    ]
+  },
+  "greystone::engineer intern stack": {
+    "company": "Greystone",
+    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Full Stack Engineer Intern",
+    "url": "https://greyco.wd108.myworkdayjobs.com/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145",
+    "urls": [
+      "https://greyco.wd108.myworkdayjobs.com/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145"
     ]
   },
   "hewlettpackardenterprise::architecture associate intern lab research systems": {
@@ -213,6 +299,54 @@
     "url": "https://go.vansh.nyc/1vD?s=y",
     "urls": [
       "https://go.vansh.nyc/1vD?s=y"
+    ]
+  },
+  "illinoistoolworks::application engineer intern software": {
+    "company": "Illinois Tool Works",
+    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Software Engineer Intern - Application Software",
+    "url": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Summer-2027-Software-Engineer-Intern--Application-Software-_JR10491-1",
+    "urls": [
+      "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Summer-2027-Software-Engineer-Intern--Application-Software-_JR10491-1"
+    ]
+  },
+  "illinoistoolworks::engineer intern software": {
+    "company": "Illinois Tool Works",
+    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Software-Engineering-Intern_JR10261",
+    "urls": [
+      "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Software-Engineering-Intern_JR10261"
+    ]
+  },
+  "insulet::co embedded engineering january june op software test": {
+    "company": "Insulet",
+    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Co-op - Embedded Software Test Engineering: January-June 2027 - Onsite",
+    "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986",
+    "urls": [
+      "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986"
+    ]
+  },
+  "lutron::boston co engineering ma op software spring": {
+    "company": "Lutron",
+    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Spring 2027 - Software Engineering Co-Op - Boston - MA",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5386/spring-2027---software-engineering-co-op---boston%2c-ma/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5386/spring-2027---software-engineering-co-op---boston%2c-ma/job"
     ]
   },
   "mcdonalds::global infrastructure intern operations tech": {
@@ -651,6 +785,23 @@
     "url": "https://lifeattiktok.com/search/7704696088079010053",
     "urls": [
       "https://lifeattiktok.com/search/7704696088079010053"
+    ]
+  },
+  "visa::engineer intern software": {
+    "company": "\ud83d\udd25 Visa",
+    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W",
+    "urls": [
+      "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1",
+      "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1",
+      "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W",
+      "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W",
+      "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W",
+      "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W-2"
     ]
   }
 }
