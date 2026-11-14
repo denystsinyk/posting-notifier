@@ -107,16 +107,30 @@
       "https://go.vansh.nyc/1yZ?s=y"
     ]
   },
+  "asml::assurance internship quality software": {
+    "company": "ASML",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Internship - Software Quality Assurance",
+    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562",
+    "urls": [
+      "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562"
+    ]
+  },
   "aurorainnovation::embedded engineer intern lidar software": {
     "company": "Aurora Innovation",
     "notified_at": "2026-11-13T23:17:31.228359+00:00",
     "sources": [
+      "speedyapply/2027-SWE-College-Jobs",
       "vanshb03/Summer2027-Internships"
     ],
     "title": "Embedded Software Engineer Intern, Lidar",
     "url": "https://go.vansh.nyc/1zg?s=y",
     "urls": [
-      "https://go.vansh.nyc/1zg?s=y"
+      "https://go.vansh.nyc/1zg?s=y",
+      "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868"
     ]
   },
   "aurorainnovation::engineer intern platforms software vehicle": {
@@ -124,12 +138,14 @@
     "notified_at": "2026-11-13T09:51:52.082134+00:00",
     "sources": [
       "SimplifyJobs/Summer2027-Internships",
+      "speedyapply/2027-SWE-College-Jobs",
       "vanshb03/Summer2027-Internships"
     ],
     "title": "Software Engineer Intern - Vehicle Platforms",
     "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true",
     "urls": [
       "https://go.vansh.nyc/1yu?s=y",
+      "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
       "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true"
     ]
   },
@@ -277,6 +293,30 @@
       "https://go.vansh.nyc/1vI?s=y"
     ]
   },
+  "blueorigin::aerospace apps conversion engineer intern software": {
+    "company": "Blue Origin",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "2026 Intern Conversion - Aerospace Software Apps Engineer I",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Aerospace-Software-Apps-Engineer-I_R70306",
+    "urls": [
+      "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Aerospace-Software-Apps-Engineer-I_R70306"
+    ]
+  },
+  "boozallen::annapolis developer games intern junction md software summer": {
+    "company": "Booz Allen",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "University - 2027 Summer Games Software Developer Intern - Annapolis Junction - MD",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403",
+    "urls": [
+      "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403"
+    ]
+  },
   "caci::development embedded intern software summer": {
     "company": "CACI",
     "notified_at": "2026-11-12T21:45:10.004633+00:00",
@@ -287,6 +327,18 @@
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147",
     "urls": [
       "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147"
+    ]
+  },
+  "campingworld::ai intern security": {
+    "company": "Camping World",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "AI Security Intern",
+    "url": "https://go.vansh.nyc/1zF?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1zF?s=y"
     ]
   },
   "campingworld::development intern management product": {
@@ -305,12 +357,14 @@
     "company": "Camping World",
     "notified_at": "2026-11-14T16:52:13.971516+00:00",
     "sources": [
-      "SimplifyJobs/Summer2027-Internships"
+      "SimplifyJobs/Summer2027-Internships",
+      "vanshb03/Summer2027-Internships"
     ],
     "title": "Software Engineer Intern",
     "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
     "urls": [
-      "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080"
+      "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
+      "https://go.vansh.nyc/1zE?s=y"
     ]
   },
   "campingworld::engineering intern software": {
@@ -347,6 +401,18 @@
     "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798",
     "urls": [
       "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798"
+    ]
+  },
+  "capital::associate global intern technology": {
+    "company": "Capital Group",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Global Technology Associate Intern",
+    "url": "https://go.vansh.nyc/1zD?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1zD?s=y"
     ]
   },
   "cardinalhealth::intern technology": {
@@ -488,7 +554,8 @@
     "company": "Electric Power Engineers",
     "notified_at": "2026-11-13T23:17:31.228359+00:00",
     "sources": [
-      "ApplyGuy/2027-Internships"
+      "ApplyGuy/2027-Internships",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Power Systems Engineering Intern",
     "url": "https://careers-epeconsulting.icims.com/jobs/2448/software-power-systems-engineering-intern/job",
@@ -568,6 +635,30 @@
       "https://go.vansh.nyc/1yJ?s=y"
     ]
   },
+  "generaldynamicsmission::administrative asset intern management software": {
+    "company": "General Dynamics Mission Systems",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Asset Management Intern Administrative",
+    "url": "https://careers-gdms.icims.com/jobs/76780/software-asset-management-intern-administrative/job",
+    "urls": [
+      "https://careers-gdms.icims.com/jobs/76780/software-asset-management-intern-administrative/job"
+    ]
+  },
+  "generaldynamicsmission::engineering intern software summer systems": {
+    "company": "General Dynamics Mission Systems",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software/Systems Engineering Intern - Summer 2027",
+    "url": "https://careers-gdms.icims.com/jobs/75808/software-systems-engineering-intern-%28summer-2027%29/job",
+    "urls": [
+      "https://careers-gdms.icims.com/jobs/75808/software-systems-engineering-intern-%28summer-2027%29/job"
+    ]
+  },
   "generaldynamicsmission::engineering intern software systems": {
     "company": "General Dynamics Mission Systems",
     "notified_at": "2026-11-13T02:25:22.494302+00:00",
@@ -578,6 +669,18 @@
     "url": "https://careers-gdms.icims.com/jobs/75808/job?mobile=true&needsRedirect=false",
     "urls": [
       "https://careers-gdms.icims.com/jobs/75808/job?mobile=true&needsRedirect=false"
+    ]
+  },
+  "genesismolecularai::engineer intern software": {
+    "company": "Genesis Molecular AI",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer Intern - 2027",
+    "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99",
+    "urls": [
+      "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99"
     ]
   },
   "gordonfoodservice::digital intern management product": {
@@ -626,6 +729,18 @@
     "url": "https://go.vansh.nyc/1w1?s=y",
     "urls": [
       "https://go.vansh.nyc/1w1?s=y"
+    ]
+  },
+  "hiebing::agent ai developer intern": {
+    "company": "Hiebing",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "AI Agent Developer Intern",
+    "url": "https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern",
+    "urls": [
+      "https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern"
     ]
   },
   "honeywellaerospace::ai intern software": {
@@ -844,6 +959,30 @@
       "https://go.vansh.nyc/1zx?s=y"
     ]
   },
+  "kla::ai engineer intern ml software": {
+    "company": "KLA",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - AI/ML Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125",
+    "urls": [
+      "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125"
+    ]
+  },
+  "kla::engineering intern software": {
+    "company": "KLA",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
+    "urls": [
+      "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineering-Intern_2642004-1"
+    ]
+  },
   "leidos::data engineer intern junior scientist software": {
     "company": "Leidos",
     "notified_at": "2026-11-13T02:25:22.494302+00:00",
@@ -856,6 +995,18 @@
       "https://leidos.wd5.myworkdayjobs.com/external/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510"
     ]
   },
+  "londoncomputer::co developer intern op software": {
+    "company": "London Computer Systems",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Developer Co-op/Intern",
+    "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b156e713-5801-4c36-bb62-a62f3bc9844f&jobId=548468",
+    "urls": [
+      "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b156e713-5801-4c36-bb62-a62f3bc9844f&jobId=548468"
+    ]
+  },
   "lutron::boston co engineering ma op software spring": {
     "company": "Lutron",
     "notified_at": "2026-11-12T21:45:10.004633+00:00",
@@ -866,6 +1017,54 @@
     "url": "https://studentopportunities-lutron.icims.com/jobs/5386/spring-2027---software-engineering-co-op---boston%2c-ma/job",
     "urls": [
       "https://studentopportunities-lutron.icims.com/jobs/5386/spring-2027---software-engineering-co-op---boston%2c-ma/job"
+    ]
+  },
+  "lutron::cincinnati embedded engineering intern oh software summer": {
+    "company": "Lutron",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Summer 2027 - Embedded Software Engineering Intern - Cincinnati - OH",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5366/summer-2027---embedded-software-engineering-intern---cincinnati%2c-oh/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5366/summer-2027---embedded-software-engineering-intern---cincinnati%2c-oh/job"
+    ]
+  },
+  "lutron::cincinnati engineering intern oh software summer": {
+    "company": "Lutron",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Summer 2027 - Software Engineering Intern - Cincinnati - OH",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5392/summer-2027---software-engineering-intern---cincinnati%2c-oh/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5392/summer-2027---software-engineering-intern---cincinnati%2c-oh/job"
+    ]
+  },
+  "lutron::co embedded engineering op pa philadelphia software spring": {
+    "company": "Lutron",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Spring 2027 - Embedded Software Engineering Co-op - Philadelphia - PA",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5364/spring-2027---embedded-software-engineering-co-op---philadelphia%2c-pa/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5364/spring-2027---embedded-software-engineering-co-op---philadelphia%2c-pa/job"
+    ]
+  },
+  "lutron::engineering intern lehigh pa software summer valley": {
+    "company": "Lutron",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Summer 2027 - Software Engineering Intern - Lehigh Valley - PA",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5382/summer-2027---software-engineering-intern---lehigh-valley%2c-pa/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5382/summer-2027---software-engineering-intern---lehigh-valley%2c-pa/job"
     ]
   },
   "manulife::co engineering intern op software spring": {
@@ -940,6 +1139,18 @@
       "https://go.vansh.nyc/1yL?s=y"
     ]
   },
+  "micron::firmware intern ssd": {
+    "company": "Micron Technology",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Intern - SSD Firmware",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/external/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
+    "urls": [
+      "https://micron.wd1.myworkdayjobs.com/en-US/external/job/San-Jose-CA/Intern---SSD-Firmware_JR115209"
+    ]
+  },
   "microsoft::coreai data intern scientist": {
     "company": "Microsoft",
     "notified_at": "2026-11-12T14:42:41.429520+00:00",
@@ -1011,6 +1222,18 @@
     "url": "https://go.vansh.nyc/1vv?s=y",
     "urls": [
       "https://go.vansh.nyc/1vv?s=y"
+    ]
+  },
+  "nbcuniversal::engineering internships software summer": {
+    "company": "NBCUniversal",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineering Internships - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529-software-engineering-internships-summer-2027?oga=true",
+    "urls": [
+      "https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529-software-engineering-internships-summer-2027?oga=true"
     ]
   },
   "netapp::cloud engineer intern software": {
@@ -1256,6 +1479,30 @@
       "https://go.vansh.nyc/1yY?s=y"
     ]
   },
+  "raft::devops engineering intern summer": {
+    "company": "Raft",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "DevOps Engineering Intern - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/raft/jobs/6239819004",
+    "urls": [
+      "https://job-boards.greenhouse.io/raft/jobs/6239819004"
+    ]
+  },
+  "raft::engineering intern stack summer": {
+    "company": "Raft",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Full Stack Engineering Intern - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/raft/jobs/6240549004",
+    "urls": [
+      "https://job-boards.greenhouse.io/raft/jobs/6240549004"
+    ]
+  },
   "reliablerobotics::engineer flight intern software": {
     "company": "Reliable Robotics Corporation",
     "notified_at": "2026-11-13T23:17:31.228359+00:00",
@@ -1272,7 +1519,8 @@
     "company": "Reliable Robotics Corporation",
     "notified_at": "2026-11-13T23:17:31.228359+00:00",
     "sources": [
-      "ApplyGuy/2027-Internships"
+      "ApplyGuy/2027-Internships",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Flight Software Engineer Intern (Summer 2027)",
     "url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed",
@@ -1446,6 +1694,7 @@
     "notified_at": "2026-11-13T23:17:31.228359+00:00",
     "sources": [
       "ApplyGuy/2027-Internships",
+      "speedyapply/2027-SWE-College-Jobs",
       "vanshb03/Summer2027-Internships"
     ],
     "title": "SSD Firmware Development Intern",
@@ -1465,6 +1714,42 @@
     "url": "https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false",
     "urls": [
       "https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false"
+    ]
+  },
+  "sas::developer experience go golang intern software summer": {
+    "company": "SAS",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Summer 2027 - Software Developer Intern (Go/Golang Experience)",
+    "url": "https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job",
+    "urls": [
+      "https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job"
+    ]
+  },
+  "sas::developer go golang intern software": {
+    "company": "SAS",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Software Developer Intern, Go/Golang",
+    "url": "https://go.vansh.nyc/1zC?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1zC?s=y"
+    ]
+  },
+  "sas::intern iot master product s strategy summer": {
+    "company": "SAS",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Summer 2027 - IoT Product Strategy Intern (Master's)",
+    "url": "https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job",
+    "urls": [
+      "https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job"
     ]
   },
   "servicenow::ai associate automation cloud engineering intern security": {
@@ -1638,6 +1923,18 @@
       "https://triafed.com/jobs/?gh_jid=5470246008"
     ]
   },
+  "trimble::hardware intern software testing": {
+    "company": "Trimble",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Hardware/Software Testing Intern",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
+    "urls": [
+      "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1"
+    ]
+  },
   "tyler::development intern software summer": {
     "company": "Tyler Technologies",
     "notified_at": "2026-11-13T09:51:52.082134+00:00",
@@ -1648,6 +1945,18 @@
     "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
     "urls": [
       "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
+    ]
+  },
+  "valeo::engineer intern round software year": {
+    "company": "Valeo",
+    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer Intern - Year-Round",
+    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794",
+    "urls": [
+      "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794"
     ]
   },
   "valeo::engineer intern software": {
