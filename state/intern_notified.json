@@ -1226,6 +1226,42 @@
       "https://micron.wd1.myworkdayjobs.com/en-US/external/job/San-Jose-CA/Intern---SSD-Firmware_JR115209"
     ]
   },
+  "microsoft::agents engineering in intern ml research software systems": {
+    "company": "Microsoft",
+    "notified_at": "2026-11-16T00:47:21.569354+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393557054069"
+    ]
+  },
+  "microsoft::cambridge engineer for identity intern opportunities security software students": {
+    "company": "Microsoft",
+    "notified_at": "2026-11-16T00:47:21.569354+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393557044765"
+    ]
+  },
+  "microsoft::co design hardware intern msr research software": {
+    "company": "Microsoft",
+    "notified_at": "2026-11-16T00:47:21.569354+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Research Intern - MSR Software-Hardware Co-design",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393557073455"
+    ]
+  },
   "microsoft::coreai data intern scientist": {
     "company": "Microsoft",
     "notified_at": "2026-11-12T14:42:41.429520+00:00",
@@ -1236,6 +1272,54 @@
     "url": "https://go.vansh.nyc/1wj?s=y",
     "urls": [
       "https://go.vansh.nyc/1wj?s=y"
+    ]
+  },
+  "microsoft::engineer experiences internship opportunities software teamwork": {
+    "company": "Microsoft",
+    "notified_at": "2026-11-16T00:47:21.569354+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393557037859"
+    ]
+  },
+  "microsoft::engineer for identity intern opportunities redmond security software students": {
+    "company": "Microsoft",
+    "notified_at": "2026-11-16T00:47:21.569354+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393556922930"
+    ]
+  },
+  "microsoft::internship manager opportunities product": {
+    "company": "Microsoft",
+    "notified_at": "2026-11-16T00:47:21.569354+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Product Manager: Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393556953113"
+    ]
+  },
+  "midrex::cyber intern it security": {
+    "company": "Midrex Technologies",
+    "notified_at": "2026-11-16T00:47:21.569354+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "IT Cyber Security Intern",
+    "url": "https://go.vansh.nyc/1zU?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1zU?s=y"
     ]
   },
   "minitab::engineer intern quality software": {
@@ -1309,6 +1393,18 @@
     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529-software-engineering-internships-summer-2027?oga=true",
     "urls": [
       "https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529-software-engineering-internships-summer-2027?oga=true"
+    ]
+  },
+  "netapp::analyst data intern": {
+    "company": "NetApp",
+    "notified_at": "2026-11-16T00:47:21.569354+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Data Analyst Intern",
+    "url": "https://go.vansh.nyc/1zX?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1zX?s=y"
     ]
   },
   "netapp::cloud engineer intern software": {
@@ -1482,6 +1578,18 @@
       "https://www.octant.bio/jobs?gh_jid=6260895004"
     ]
   },
+  "originbank::development intern salesforce systems": {
+    "company": "Origin Bank",
+    "notified_at": "2026-11-16T00:47:21.569354+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Salesforce Systems Development Intern",
+    "url": "https://go.vansh.nyc/1zY?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1zY?s=y"
+    ]
+  },
   "owlcyberdefense::engineering intern software": {
     "company": "Owl Cyber Defense",
     "notified_at": "2026-11-15T01:11:38.496233+00:00",
@@ -1510,11 +1618,13 @@
     "company": "Paccar",
     "notified_at": "2026-11-14T10:49:17.925407+00:00",
     "sources": [
-      "SimplifyJobs/Summer2027-Internships"
+      "SimplifyJobs/Summer2027-Internships",
+      "vanshb03/Summer2027-Internships"
     ],
     "title": "Software Developer Intern",
     "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors",
     "urls": [
+      "https://go.vansh.nyc/1zV?s=y",
       "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors"
     ]
   },
@@ -1528,6 +1638,18 @@
     "url": "https://go.vansh.nyc/1vS?s=y",
     "urls": [
       "https://go.vansh.nyc/1vS?s=y"
+    ]
+  },
+  "pasoniwscareer::datahub developer intern software": {
+    "company": "Pason & IWS Career",
+    "notified_at": "2026-11-16T00:47:21.569354+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Software Developer Intern, Datahub",
+    "url": "https://go.vansh.nyc/1zT?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1zT?s=y"
     ]
   },
   "pods::data intern operations science": {
@@ -1996,6 +2118,18 @@
     "url": "https://go.vansh.nyc/1zI?s=y",
     "urls": [
       "https://go.vansh.nyc/1zI?s=y"
+    ]
+  },
+  "steel::engineer intern software": {
+    "company": "Steel",
+    "notified_at": "2026-11-16T00:47:21.569354+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true",
+    "urls": [
+      "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true"
     ]
   },
   "stepstone::ai analyst intern quant": {
