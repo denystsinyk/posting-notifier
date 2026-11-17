@@ -71,6 +71,18 @@
       "https://job-boards.greenhouse.io/addepar1/jobs/8910306002"
     ]
   },
+  "aerovironment::engineering intern software": {
+    "company": "AeroVironment",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Lawrence-KS/Software-Engineering-Intern_9360",
+    "urls": [
+      "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Lawrence-KS/Software-Engineering-Intern_9360"
+    ]
+  },
   "amazon::automated development engineer intern learning machine reasoning software summer": {
     "company": "Amazon",
     "notified_at": "2026-11-16T17:58:22.289827+00:00",
@@ -131,6 +143,18 @@
       "https://argonne.wd1.myworkdayjobs.com/edu_pub/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702"
     ]
   },
+  "argonnenationallaboratory::business enterprise information intern software solutions systems": {
+    "company": "Argonne National Laboratory",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Intern - Business Information Systems - Enterprise Software Solutions",
+    "url": "https://argonne.wd1.myworkdayjobs.com/en-US/edu_pub/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702",
+    "urls": [
+      "https://argonne.wd1.myworkdayjobs.com/en-US/edu_pub/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702"
+    ]
+  },
   "asml::analytics and data euv intern science": {
     "company": "ASML",
     "notified_at": "2026-11-13T23:17:31.228359+00:00",
@@ -152,7 +176,20 @@
     "title": "Internship - Software Quality Assurance",
     "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562",
     "urls": [
-      "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562"
+      "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562",
+      "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354563"
+    ]
+  },
+  "asml::engineer in internship platform software test": {
+    "company": "ASML",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Platform Software Engineer In Test - Internship",
+    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
+    "urls": [
+      "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558"
     ]
   },
   "aurorainnovation::embedded engineer intern lidar software": {
@@ -307,6 +344,18 @@
       "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350"
     ]
   },
+  "bloombergindustry::analyst data intern": {
+    "company": "Bloomberg Industry Group",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Data Analyst Intern",
+    "url": "https://go.vansh.nyc/1AF?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1AF?s=y"
+    ]
+  },
   "bloombergindustry::engineering intern": {
     "company": "Bloomberg Industry Group",
     "notified_at": "2026-11-13T23:17:31.228359+00:00",
@@ -403,6 +452,30 @@
     "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
     "urls": [
       "https://bostonscientific.eightfold.ai/careers/job/563602813827837"
+    ]
+  },
+  "bound::engineering intern": {
+    "company": "Bound",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Engineering Intern",
+    "url": "https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd",
+    "urls": [
+      "https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd"
+    ]
+  },
+  "brex::engineer intern software": {
+    "company": "Brex",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "urls": [
+      "https://www.brex.com/careers/8936403002?gh_jid=8936403002"
     ]
   },
   "caci::development embedded intern software summer": {
@@ -539,6 +612,18 @@
       "https://go.vansh.nyc/1wa?s=y"
     ]
   },
+  "carnegiemellonuniversity::ai engineer innovation intern lab mission": {
+    "company": "Carnegie Mellon University",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "AI Engineer Intern, Mission Innovation Lab \ud83d\udec2",
+    "url": "https://go.vansh.nyc/1Az?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Az?s=y"
+    ]
+  },
   "carnegiemellonuniversity::at capability enabling intern mission scale": {
     "company": "Carnegie Mellon University",
     "notified_at": "2026-11-14T10:49:17.925407+00:00",
@@ -550,6 +635,42 @@
     "urls": [
       "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1",
       "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300"
+    ]
+  },
+  "carnival::ai data intern solutions": {
+    "company": "Carnival Corporation",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Data & AI Solutions Intern",
+    "url": "https://go.vansh.nyc/1Ag?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Ag?s=y"
+    ]
+  },
+  "carnival::analytics data intern": {
+    "company": "Carnival Corporation",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Data Analytics Intern",
+    "url": "https://go.vansh.nyc/1Av?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Av?s=y"
+    ]
+  },
+  "carnival::data intern revenue science": {
+    "company": "Carnival Corporation",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Revenue Data Science Intern",
+    "url": "https://go.vansh.nyc/1Ah?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Ah?s=y"
     ]
   },
   "chathamfinancial::engineer intern software": {
@@ -577,22 +698,35 @@
       "https://go.vansh.nyc/1zH?s=y"
     ]
   },
+  "clearwateranalytics::developer intern quant": {
+    "company": "Clearwater Analytics",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Quant Developer Intern",
+    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12185",
+    "urls": [
+      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12183",
+      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12184",
+      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12185"
+    ]
+  },
   "clearwateranalytics::development intern software": {
     "company": "Clearwater Analytics",
-    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Development Intern",
-    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12188",
+    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12187",
     "urls": [
-      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12186",
-      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12188"
+      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12187"
     ]
   },
   "copart::engineering intern software": {
     "company": "Copart",
-    "notified_at": "2026-11-12T21:45:10.004633+00:00",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -636,6 +770,18 @@
     "url": "https://go.vansh.nyc/1yM?s=y",
     "urls": [
       "https://go.vansh.nyc/1yM?s=y"
+    ]
+  },
+  "disney::data engineering intern": {
+    "company": "Disney",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Data Engineering Intern",
+    "url": "https://go.vansh.nyc/1AL?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1AL?s=y"
     ]
   },
   "dtna::analyst developer intern it": {
@@ -772,6 +918,18 @@
       "https://go.vansh.nyc/1yJ?s=y"
     ]
   },
+  "forterra::intern software": {
+    "company": "Forterra",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "2027 Intern - Software",
+    "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
+    "urls": [
+      "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395"
+    ]
+  },
   "generaldynamicsmission::administrative asset intern management software": {
     "company": "General Dynamics Mission Systems",
     "notified_at": "2026-11-14T21:07:51.847050+00:00",
@@ -808,6 +966,18 @@
       "https://careers-gdms.icims.com/jobs/75808/job?mobile=true&needsRedirect=false"
     ]
   },
+  "generalmotors::and digital embedded engineering intern product summer systems": {
+    "company": "General Motors",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "2027 Summer Intern - Digital Product: Embedded and Systems Engineering",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
+    "urls": [
+      "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513"
+    ]
+  },
   "genesismolecularai::engineer intern software": {
     "company": "Genesis Molecular AI",
     "notified_at": "2026-11-14T21:07:51.847050+00:00",
@@ -842,6 +1012,18 @@
     "url": "https://go.vansh.nyc/1vB?s=y",
     "urls": [
       "https://go.vansh.nyc/1vB?s=y"
+    ]
+  },
+  "gpc::cloud intern sre": {
+    "company": "GPC",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Cloud SRE Intern",
+    "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
+    "urls": [
+      "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134"
     ]
   },
   "gpc::developer intern software": {
@@ -890,6 +1072,18 @@
     "url": "https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern",
     "urls": [
       "https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern"
+    ]
+  },
+  "highmarkhealth::analyst engen intern technical undergraduate": {
+    "company": "Highmark Health",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Technical Analyst Intern, enGen Undergraduate",
+    "url": "https://go.vansh.nyc/1AK?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1AK?s=y"
     ]
   },
   "honeywellaerospace::ai intern software": {
@@ -976,6 +1170,30 @@
       "https://go.vansh.nyc/1Af?s=y"
     ]
   },
+  "i3corps::embedded engineer intern reverse systems": {
+    "company": "I 3 Corps",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Embedded Systems Reverse Engineer Intern",
+    "url": "https://careers-i3-corps.icims.com/jobs/5588/embedded-systems-reverse-engineer-intern/job",
+    "urls": [
+      "https://careers-i3-corps.icims.com/jobs/5588/embedded-systems-reverse-engineer-intern/job"
+    ]
+  },
+  "idahonationallaboratory::cybersecurity intern operations": {
+    "company": "Idaho National Laboratory",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Cybersecurity Operations Intern",
+    "url": "https://go.vansh.nyc/1Am?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Am?s=y"
+    ]
+  },
   "idemia::engineering intern": {
     "company": "IDEMIA",
     "notified_at": "2026-11-14T16:52:13.971516+00:00",
@@ -1060,6 +1278,18 @@
       "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Software-Engineering-Intern_JR10261"
     ]
   },
+  "impulsespace::asic design digital engineering fpga intern": {
+    "company": "Impulse Space",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Digital Design Engineering Intern, FPGA/ASIC",
+    "url": "https://go.vansh.nyc/1Ay?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Ay?s=y"
+    ]
+  },
   "instilsoftware::engineer intern placement software": {
     "company": "Instil Software Ltd",
     "notified_at": "2026-11-16T17:58:22.289827+00:00",
@@ -1084,6 +1314,18 @@
       "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986"
     ]
   },
+  "integrationinnovationi3::embedded engineer intern reverse systems": {
+    "company": "Integration Innovation (i3)",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Embedded Systems Reverse Engineer Intern",
+    "url": "https://go.vansh.nyc/1AB?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1AB?s=y"
+    ]
+  },
   "ipconfigure::development intern software surveillance video": {
     "company": "IPConfigure",
     "notified_at": "2026-11-13T17:31:54.611609+00:00",
@@ -1094,6 +1336,18 @@
     "url": "https://go.vansh.nyc/1yE?s=y",
     "urls": [
       "https://go.vansh.nyc/1yE?s=y"
+    ]
+  },
+  "jmpstatisticaldiscovery::core d interface intern jmp master phd r s team user": {
+    "company": "JMP Statistical Discovery",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "JMP Core User Interface Team R&D Intern - Master's/PhD \ud83c\udf93",
+    "url": "https://jmp-sas.icims.com/jobs/47455/job?mobile=true&needsRedirect=false",
+    "urls": [
+      "https://jmp-sas.icims.com/jobs/47455/job?mobile=true&needsRedirect=false"
     ]
   },
   "jobsatuhs::analyst information intern security": {
@@ -1153,7 +1407,20 @@
     "title": "Software Engineer - AI/ML Intern",
     "url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125",
     "urls": [
+      "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1",
       "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125"
+    ]
+  },
+  "kla::engineer intern software": {
+    "company": "KLA",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Totowa-NJ/Software-Engineer-Intern_2642151",
+    "urls": [
+      "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Totowa-NJ/Software-Engineer-Intern_2642151"
     ]
   },
   "kla::engineering intern software": {
@@ -1168,6 +1435,18 @@
       "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineering-Intern_2642004-1"
     ]
   },
+  "kla::firmware intern": {
+    "company": "KLA",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Firmware Intern",
+    "url": "https://go.vansh.nyc/1AJ?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1AJ?s=y"
+    ]
+  },
   "leidos::data engineer intern junior scientist software": {
     "company": "Leidos",
     "notified_at": "2026-11-13T02:25:22.494302+00:00",
@@ -1178,6 +1457,30 @@
     "url": "https://leidos.wd5.myworkdayjobs.com/external/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
     "urls": [
       "https://leidos.wd5.myworkdayjobs.com/external/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510"
+    ]
+  },
+  "lightmatter::ai data intern platform": {
+    "company": "Lightmatter",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Data & AI Platform Intern \ud83c\udf93",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008",
+    "urls": [
+      "https://boards.greenhouse.io/lightmatter/jobs/5474807008"
+    ]
+  },
+  "linkedin::engineer infrastructure intern systems": {
+    "company": "\ud83d\udd25 LinkedIn",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Systems & Infrastructure Engineer Intern \ud83c\udf93",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000161930950",
+    "urls": [
+      "https://jobs.smartrecruiters.com/LinkedIn3/744000161930950"
     ]
   },
   "londoncomputer::co developer intern op software": {
@@ -1192,6 +1495,42 @@
       "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b156e713-5801-4c36-bb62-a62f3bc9844f&jobId=548468"
     ]
   },
+  "lutron::austin embedded engineering firmware intern summer tx": {
+    "company": "Lutron",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Summer 2027 - Embedded Firmware Engineering Intern - Austin - TX",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5361/summer-2027---embedded-firmware-engineering-intern---austin%2c-tx/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5361/summer-2027---embedded-firmware-engineering-intern---austin%2c-tx/job"
+    ]
+  },
+  "lutron::beach boynton embedded engineering firmware fl intern summer": {
+    "company": "Lutron",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Summer 2027 - Embedded Firmware Engineering Intern - Boynton Beach - FL",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5362/summer-2027---embedded-firmware-engineering-intern---boynton-beach%2c-fl/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5362/summer-2027---embedded-firmware-engineering-intern---boynton-beach%2c-fl/job"
+    ]
+  },
+  "lutron::boston co embedded engineering firmware ma op spring": {
+    "company": "Lutron",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Spring 2027 - Embedded Firmware Engineering Co-Op - Boston - MA",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5359/spring-2027---embedded-firmware-engineering-co-op---boston%2c-ma/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5359/spring-2027---embedded-firmware-engineering-co-op---boston%2c-ma/job"
+    ]
+  },
   "lutron::boston co engineering ma op software spring": {
     "company": "Lutron",
     "notified_at": "2026-11-12T21:45:10.004633+00:00",
@@ -1202,6 +1541,18 @@
     "url": "https://studentopportunities-lutron.icims.com/jobs/5386/spring-2027---software-engineering-co-op---boston%2c-ma/job",
     "urls": [
       "https://studentopportunities-lutron.icims.com/jobs/5386/spring-2027---software-engineering-co-op---boston%2c-ma/job"
+    ]
+  },
+  "lutron::boston embedded engineering firmware intern ma summer": {
+    "company": "Lutron",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Summer 2027 - Embedded Firmware Engineering Intern - Boston - MA",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5360/summer-2027---embedded-firmware-engineering-intern---boston%2c-ma/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5360/summer-2027---embedded-firmware-engineering-intern---boston%2c-ma/job"
     ]
   },
   "lutron::cincinnati embedded engineering intern oh software summer": {
@@ -1252,6 +1603,18 @@
       "https://studentopportunities-lutron.icims.com/jobs/5382/summer-2027---software-engineering-intern---lehigh-valley%2c-pa/job"
     ]
   },
+  "m3usa::engineering intern quality sdet": {
+    "company": "M3 USA",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Quality Engineering Intern, SDET",
+    "url": "https://go.vansh.nyc/1An?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1An?s=y"
+    ]
+  },
   "manulife::co engineering intern op software spring": {
     "company": "Manulife",
     "notified_at": "2026-11-14T03:27:35.942804+00:00",
@@ -1290,14 +1653,14 @@
   },
   "mcdonalds::global infrastructure intern operations tech": {
     "company": "McDonald's",
-    "notified_at": "2026-11-12T05:54:59.124079+00:00",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
     "sources": [
-      "vanshb03/Summer2027-Internships"
+      "SimplifyJobs/Summer2027-Internships"
     ],
     "title": "Global Tech Infrastructure & Operations Intern",
-    "url": "https://go.vansh.nyc/1vz?s=y",
+    "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors",
     "urls": [
-      "https://go.vansh.nyc/1vz?s=y"
+      "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors"
     ]
   },
   "micron::ai engineer intern platform": {
@@ -1324,6 +1687,18 @@
       "https://go.vansh.nyc/1yL?s=y"
     ]
   },
+  "micron::data intern science smai": {
+    "company": "Micron Technology",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Data Science Intern, SMAI",
+    "url": "https://go.vansh.nyc/1Ap?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Ap?s=y"
+    ]
+  },
   "micron::firmware intern ssd": {
     "company": "Micron Technology",
     "notified_at": "2026-11-14T21:07:51.847050+00:00",
@@ -1333,6 +1708,7 @@
     "title": "Intern - SSD Firmware",
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/external/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
     "urls": [
+      "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210",
       "https://micron.wd1.myworkdayjobs.com/en-US/external/job/San-Jose-CA/Intern---SSD-Firmware_JR115209"
     ]
   },
@@ -1456,6 +1832,20 @@
       "https://job-boards.greenhouse.io/minitab/jobs/8200698003"
     ]
   },
+  "minitab::engineering intern software": {
+    "company": "Minitab",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships",
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1Ax?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Ax?s=y",
+      "https://job-boards.greenhouse.io/minitab/jobs/8200708003"
+    ]
+  },
   "mksinst::co engineer op software summer": {
     "company": "Mksinst",
     "notified_at": "2026-11-12T05:54:59.124079+00:00",
@@ -1491,6 +1881,30 @@
     "url": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007",
     "urls": [
       "https://job-boards.greenhouse.io/muonspace/jobs/5293973007"
+    ]
+  },
+  "nationalinterstateinsurance::analytics intern predictive": {
+    "company": "National Interstate Insurance",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Predictive Analytics Intern \ud83d\udec2",
+    "url": "https://go.vansh.nyc/1AE?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1AE?s=y"
+    ]
+  },
+  "nbcuniversal::ar digital intern transformation vr": {
+    "company": "NBCUniversal",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Digital Transformation AR/VR Intern",
+    "url": "https://go.vansh.nyc/1Ai?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Ai?s=y"
     ]
   },
   "nbcuniversal::engineer intern software": {
@@ -1762,6 +2176,18 @@
       "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors"
     ]
   },
+  "pacificfusion::devops engineering hpc intern": {
+    "company": "Pacific Fusion",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "HPC/DevOps Engineering Intern",
+    "url": "https://go.vansh.nyc/1Ao?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Ao?s=y"
+    ]
+  },
   "panerabread::ai analytics data intern science": {
     "company": "Panera Bread",
     "notified_at": "2026-11-12T05:54:59.124079+00:00",
@@ -1834,6 +2260,20 @@
       "https://go.vansh.nyc/1yY?s=y"
     ]
   },
+  "questanalytics::asp c engineer intern net software": {
+    "company": "Quest Analytics",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships",
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Software Engineer Intern - C# - ASP.NET",
+    "url": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply",
+    "urls": [
+      "https://go.vansh.nyc/1Al?s=y",
+      "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply"
+    ]
+  },
   "raft::devops engineering intern summer": {
     "company": "Raft",
     "notified_at": "2026-11-14T21:07:51.847050+00:00",
@@ -1856,6 +2296,69 @@
     "url": "https://job-boards.greenhouse.io/raft/jobs/6240549004",
     "urls": [
       "https://job-boards.greenhouse.io/raft/jobs/6240549004"
+    ]
+  },
+  "raytheon::2 engineering in intern iset software": {
+    "company": "Raytheon",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineering Intern - ISET-IN-2",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017"
+    ]
+  },
+  "raytheon::co engineering fall op software summer": {
+    "company": "Raytheon",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineering Co-op - Summer/Fall",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404"
+    ]
+  },
+  "raytheon::electrical engineering firmware intern summer": {
+    "company": "Raytheon",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Electrical - Firmware Engineering Intern - Summer 2027- Onsite",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316"
+    ]
+  },
+  "raytheon::engineering intern software summer": {
+    "company": "Raytheon",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineering Intern - Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543",
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055"
+    ]
+  },
+  "reliablerobotics::displays engineer intern software": {
+    "company": "Reliable Robotics",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships",
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Displays Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true",
+    "urls": [
+      "https://go.vansh.nyc/1AA?s=y",
+      "https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true"
     ]
   },
   "reliablerobotics::engineer flight intern software": {
@@ -2113,7 +2616,8 @@
     "company": "SAS",
     "notified_at": "2026-11-14T21:07:51.847050+00:00",
     "sources": [
-      "ApplyGuy/2027-Internships"
+      "ApplyGuy/2027-Internships",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Summer 2027 - Software Developer Intern (Go/Golang Experience)",
     "url": "https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job",
@@ -2145,6 +2649,42 @@
       "https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job"
     ]
   },
+  "sas::intern optimization": {
+    "company": "SAS",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Optimization Intern \ud83c\udf93",
+    "url": "https://careers-sas.icims.com/jobs/42754/job?mobile=true&needsRedirect=false",
+    "urls": [
+      "https://careers-sas.icims.com/jobs/42754/job?mobile=true&needsRedirect=false"
+    ]
+  },
+  "schonfeld::cybersecurity intern operations": {
+    "company": "Schonfeld",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Cybersecurity Operations Intern",
+    "url": "https://go.vansh.nyc/1Aj?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Aj?s=y"
+    ]
+  },
+  "schonfeld::engineering intern platform": {
+    "company": "Schonfeld",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Platform Engineering Intern",
+    "url": "https://go.vansh.nyc/1Aw?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Aw?s=y"
+    ]
+  },
   "servicenow::ai associate automation cloud engineering intern security": {
     "company": "ServiceNow",
     "notified_at": "2026-11-12T05:54:59.124079+00:00",
@@ -2169,6 +2709,20 @@
       "https://go.vansh.nyc/1vX?s=y"
     ]
   },
+  "servicenow::associate deployed engineer forward intern solution": {
+    "company": "\ud83d\udd25 ServiceNow",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships",
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Associate Forward Deployed Solution Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
+    "urls": [
+      "https://go.vansh.nyc/1AC?s=y",
+      "https://jobs.smartrecruiters.com/ServiceNow/744000161936128"
+    ]
+  },
   "servicenow::associate detection engineering intern": {
     "company": "ServiceNow",
     "notified_at": "2026-11-12T05:54:59.124079+00:00",
@@ -2191,6 +2745,18 @@
     "url": "https://go.vansh.nyc/1vY?s=y",
     "urls": [
       "https://go.vansh.nyc/1vY?s=y"
+    ]
+  },
+  "servicenow::deployed engineer forward intern solution": {
+    "company": "\ud83d\udd25 ServiceNow",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Forward Deployed Solution Engineer Intern \ud83c\udf93",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936020",
+    "urls": [
+      "https://jobs.smartrecruiters.com/ServiceNow/744000161936020"
     ]
   },
   "shieldai::2 autonomy capabilities engineer software": {
@@ -2280,6 +2846,18 @@
       "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a"
     ]
   },
+  "sierranevada::engineer for interns only software": {
+    "company": "Sierra Nevada Corporation",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer I - For 2026 Interns Only",
+    "url": "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346",
+    "urls": [
+      "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346"
+    ]
+  },
   "skhynixmemorysolutionsamerica::embedded engineer intern software": {
     "company": "SK hynix memory solutions America Inc.",
     "notified_at": "2026-11-12T14:42:41.429520+00:00",
@@ -2290,6 +2868,30 @@
     "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009",
     "urls": [
       "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009"
+    ]
+  },
+  "sriinternational::co development drexel engineering op software stack": {
+    "company": "SRI International",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Drexel University Co-op: Software Engineering/Full stack development",
+    "url": "https://careers-sri.icims.com/jobs/6541/drexel-university-co-op%3a-software-engineering-full-stack-development/job",
+    "urls": [
+      "https://careers-sri.icims.com/jobs/6541/drexel-university-co-op%3a-software-engineering-full-stack-development/job"
+    ]
+  },
+  "sriinternational::co drexel embedded engineering op software": {
+    "company": "SRI International",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Drexel University Co-op: Embedded Software Engineering",
+    "url": "https://careers-sri.icims.com/jobs/6542/drexel-university-co-op%3a-embedded-software-engineering/job",
+    "urls": [
+      "https://careers-sri.icims.com/jobs/6542/drexel-university-co-op%3a-embedded-software-engineering/job"
     ]
   },
   "stateofmaryland::analyst intern quantitative": {
@@ -2342,6 +2944,18 @@
       "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919"
     ]
   },
+  "tiktok::client data engineer foundation intern learning machine security": {
+    "company": "\ud83d\udd25 TikTok",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Client Security & Data Foundation Machine Learning Engineer Intern \ud83c\udf93",
+    "url": "https://lifeattiktok.com/search/7708750900450134325",
+    "urls": [
+      "https://lifeattiktok.com/search/7708750900450134325"
+    ]
+  },
   "tiktok::engineer intern search software tiktok": {
     "company": "\ud83d\udd25 TikTok",
     "notified_at": "2026-11-12T14:42:41.429520+00:00",
@@ -2352,6 +2966,18 @@
     "url": "https://lifeattiktok.com/search/7704696088079010053",
     "urls": [
       "https://lifeattiktok.com/search/7704696088079010053"
+    ]
+  },
+  "toyotaresearchinstitute::intern models multimodal robotics sensing world": {
+    "company": "Toyota Research Institute",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Robotics Intern, World Models, Multimodal Sensing",
+    "url": "https://go.vansh.nyc/1Au?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Au?s=y"
     ]
   },
   "trace3::intern security": {
@@ -2378,6 +3004,18 @@
       "https://triafed.com/jobs/?gh_jid=5470246008"
     ]
   },
+  "trimble::ai developer intern": {
+    "company": "Trimble",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "AI Developer Intern",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---OH-Dayton/AI-Developer-Intern_R58195",
+    "urls": [
+      "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---OH-Dayton/AI-Developer-Intern_R58195"
+    ]
+  },
   "trimble::hardware intern software testing": {
     "company": "Trimble",
     "notified_at": "2026-11-14T21:07:51.847050+00:00",
@@ -2392,7 +3030,7 @@
   },
   "tyler::development intern software summer": {
     "company": "Tyler Technologies",
-    "notified_at": "2026-11-13T09:51:52.082134+00:00",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
     "sources": [
       "SimplifyJobs/Summer2027-Internships"
     ],
@@ -2525,6 +3163,18 @@
     "url": "https://go.vansh.nyc/1yK?s=y",
     "urls": [
       "https://go.vansh.nyc/1yK?s=y"
+    ]
+  },
+  "zurichinsurance::ai analytics data intern": {
+    "company": "Zurich Insurance",
+    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Data Analytics & AI Intern",
+    "url": "https://go.vansh.nyc/1AD?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1AD?s=y"
     ]
   }
 }
