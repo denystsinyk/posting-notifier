@@ -83,6 +83,31 @@
       "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Lawrence-KS/Software-Engineering-Intern_9360"
     ]
   },
+  "airbnb::engineer intern software": {
+    "company": "\ud83d\udd25 Airbnb",
+    "notified_at": "2026-11-18T09:46:59.688006+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships",
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+    "urls": [
+      "https://careers.airbnb.com/positions/8360478?gh_jid=8360478"
+    ]
+  },
+  "airbnb::engineering intern software": {
+    "company": "Airbnb",
+    "notified_at": "2026-11-18T09:46:59.688006+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1C6?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1C6?s=y"
+    ]
+  },
   "amazon::automated development engineer intern learning machine reasoning software summer": {
     "company": "Amazon",
     "notified_at": "2026-11-16T17:58:22.289827+00:00",
@@ -155,6 +180,18 @@
     "urls": [
       "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
       "https://go.vansh.nyc/1Bo?s=y"
+    ]
+  },
+  "apexanalytix::devops intern management product summer": {
+    "company": "apexanalytix",
+    "notified_at": "2026-11-18T09:46:59.688006+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Product Management (DevOps) Intern - Summer 2027",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164",
+    "urls": [
+      "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164"
     ]
   },
   "arcesium::intern operations technology": {
@@ -1279,12 +1316,14 @@
     "company": "GM financial",
     "notified_at": "2026-11-18T01:46:26.933825+00:00",
     "sources": [
-      "SimplifyJobs/Summer2027-Internships"
+      "SimplifyJobs/Summer2027-Internships",
+      "vanshb03/Summer2027-Internships"
     ],
     "title": "Software Development Engineer Intern",
     "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943",
     "urls": [
-      "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943"
+      "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943",
+      "https://go.vansh.nyc/1BZ?s=y"
     ]
   },
   "gordonfoodservice::digital intern management product": {
@@ -2376,6 +2415,18 @@
       "https://go.vansh.nyc/1z2?s=y"
     ]
   },
+  "nightwing::intern researcher vulnerability": {
+    "company": "Nightwing",
+    "notified_at": "2026-11-18T09:46:59.688006+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Vulnerability Researcher Intern \ud83c\uddfa\ud83c\uddf8",
+    "url": "https://go.vansh.nyc/1C8?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1C8?s=y"
+    ]
+  },
   "nintendo::audio engineer intern software": {
     "company": "Nintendo",
     "notified_at": "2026-11-12T14:42:41.429520+00:00",
@@ -2769,6 +2820,7 @@
     "company": "Raptor Maps",
     "notified_at": "2026-11-18T01:46:26.933825+00:00",
     "sources": [
+      "ApplyGuy/2027-Internships",
       "SimplifyJobs/Summer2027-Internships"
     ],
     "title": "Software Engineer Intern",
@@ -3062,6 +3114,21 @@
     "url": "https://go.vansh.nyc/1zR?s=y",
     "urls": [
       "https://go.vansh.nyc/1zR?s=y"
+    ]
+  },
+  "salliemae::engineer intern software": {
+    "company": "Sallie Mae",
+    "notified_at": "2026-11-18T09:46:59.688006+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships",
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623",
+    "urls": [
+      "https://go.vansh.nyc/1C4?s=y",
+      "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633",
+      "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623"
     ]
   },
   "samsungsemiconductor::compiler engineer intern": {
@@ -3411,6 +3478,18 @@
       "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003"
     ]
   },
+  "spglobal::engineer intern learning machine": {
+    "company": "S&P Global",
+    "notified_at": "2026-11-18T09:46:59.688006+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://go.vansh.nyc/1C7?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1C7?s=y"
+    ]
+  },
   "sriinternational::co development drexel engineering op software stack": {
     "company": "SRI International",
     "notified_at": "2026-11-17T01:50:19.105770+00:00",
@@ -3481,6 +3560,18 @@
     "url": "https://go.vansh.nyc/1zI?s=y",
     "urls": [
       "https://go.vansh.nyc/1zI?s=y"
+    ]
+  },
+  "statestreet::data intern scientist": {
+    "company": "State Street",
+    "notified_at": "2026-11-18T09:46:59.688006+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Data Scientist Intern",
+    "url": "https://go.vansh.nyc/1C1?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1C1?s=y"
     ]
   },
   "steel::engineer intern software": {
