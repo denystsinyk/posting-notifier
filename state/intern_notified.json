@@ -617,6 +617,18 @@
       "https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd"
     ]
   },
+  "breadfinancial::cybersecurity intern": {
+    "company": "Bread Financial",
+    "notified_at": "2026-11-19T08:37:13.761153+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/1CF?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1CF?s=y"
+    ]
+  },
   "breadfinancial::engineering intern software": {
     "company": "Bread Financial",
     "notified_at": "2026-11-18T01:46:26.933825+00:00",
@@ -1524,11 +1536,13 @@
     "company": "HERE Technologies",
     "notified_at": "2026-11-19T00:58:20.979712+00:00",
     "sources": [
+      "ApplyGuy/2027-Internships",
       "vanshb03/Summer2027-Internships"
     ],
     "title": "Software Engineer Intern",
     "url": "https://go.vansh.nyc/1CC?s=y",
     "urls": [
+      "https://careers-here.icims.com/jobs/83731/software-engineer-intern/job",
       "https://go.vansh.nyc/1CC?s=y"
     ]
   },
@@ -1916,6 +1930,18 @@
       "https://go.vansh.nyc/1zx?s=y"
     ]
   },
+  "kira::27 engineering intern software winter": {
+    "company": "Kira",
+    "notified_at": "2026-11-19T08:37:13.761153+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Engineering Intern (Winter '27)",
+    "url": "https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe",
+    "urls": [
+      "https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe"
+    ]
+  },
   "kla::ai engineer intern ml software": {
     "company": "KLA",
     "notified_at": "2026-11-14T21:07:51.847050+00:00",
@@ -2025,6 +2051,18 @@
       "https://jobs.smartrecruiters.com/LinkedIn3/744000161930950"
     ]
   },
+  "lockheedmartin::engineer intern software": {
+    "company": "Lockheed Martin",
+    "notified_at": "2026-11-19T08:37:13.761153+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+    "url": "https://go.vansh.nyc/1CG?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1CG?s=y"
+    ]
+  },
   "londoncomputer::co developer intern op software": {
     "company": "London Computer Systems",
     "notified_at": "2026-11-14T21:07:51.847050+00:00",
@@ -2035,6 +2073,19 @@
     "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b156e713-5801-4c36-bb62-a62f3bc9844f&jobId=548468",
     "urls": [
       "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b156e713-5801-4c36-bb62-a62f3bc9844f&jobId=548468"
+    ]
+  },
+  "lucidsoftware::internship management product summer": {
+    "company": "Lucid Software",
+    "notified_at": "2026-11-19T08:37:13.761153+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Product Management Internship - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004",
+    "urls": [
+      "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004",
+      "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004"
     ]
   },
   "lumentum::analytics data intern science": {
@@ -3442,12 +3493,14 @@
     "company": "Samsung Semiconductor",
     "notified_at": "2026-11-19T00:58:20.979712+00:00",
     "sources": [
+      "ApplyGuy/2027-Internships",
       "vanshb03/Summer2027-Internships"
     ],
     "title": "SSD Firmware Engineer Intern",
     "url": "https://go.vansh.nyc/1Cu?s=y",
     "urls": [
-      "https://go.vansh.nyc/1Cu?s=y"
+      "https://go.vansh.nyc/1Cu?s=y",
+      "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003"
     ]
   },
   "sas::developer experience go golang intern software": {
@@ -4243,6 +4296,18 @@
     "url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/?ats=successfactors",
     "urls": [
       "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/?ats=successfactors"
+    ]
+  },
+  "workstream::engineer intern stack": {
+    "company": "Workstream",
+    "notified_at": "2026-11-19T08:37:13.761153+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Full Stack Engineer Intern",
+    "url": "https://go.vansh.nyc/1CE?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1CE?s=y"
     ]
   },
   "wtw::analyst data intern": {
