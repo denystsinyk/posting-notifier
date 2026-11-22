@@ -2288,6 +2288,18 @@
       "https://higher.gs.com/roles/189373?type=students"
     ]
   },
+  "gorbel::co developer end front op web": {
+    "company": "Gorbel",
+    "notified_at": "2026-11-22T07:16:04.862124+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Front-End Web Developer Co-Op",
+    "url": "https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1",
+    "urls": [
+      "https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1"
+    ]
+  },
   "gordonfoodservice::digital intern management product": {
     "company": "Gordon Food Service",
     "notified_at": "2026-11-12T05:54:59.124079+00:00",
@@ -3925,7 +3937,7 @@
   },
   "microsoft::agents engineering in intern ml research software systems": {
     "company": "Microsoft",
-    "notified_at": "2026-11-19T00:58:20.979712+00:00",
+    "notified_at": "2026-11-22T07:16:04.862124+00:00",
     "sources": [
       "ApplyGuy/2027-Internships"
     ],
@@ -3949,7 +3961,7 @@
   },
   "microsoft::ai intern research software systems": {
     "company": "Microsoft",
-    "notified_at": "2026-11-19T00:58:20.979712+00:00",
+    "notified_at": "2026-11-22T07:16:04.862124+00:00",
     "sources": [
       "ApplyGuy/2027-Internships"
     ],
@@ -3985,7 +3997,7 @@
   },
   "microsoft::co design hardware intern msr research software": {
     "company": "Microsoft",
-    "notified_at": "2026-11-19T00:58:20.979712+00:00",
+    "notified_at": "2026-11-22T07:16:04.862124+00:00",
     "sources": [
       "ApplyGuy/2027-Internships"
     ],
@@ -4009,7 +4021,7 @@
   },
   "microsoft::engineer experiences internship opportunities software teamwork": {
     "company": "Microsoft",
-    "notified_at": "2026-11-19T00:58:20.979712+00:00",
+    "notified_at": "2026-11-22T07:16:04.862124+00:00",
     "sources": [
       "ApplyGuy/2027-Internships"
     ],
@@ -4276,6 +4288,42 @@
       "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064"
     ]
   },
+  "neros::autonomy intern": {
+    "company": "Neros Technologies",
+    "notified_at": "2026-11-22T07:16:04.862124+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Autonomy Intern",
+    "url": "https://go.vansh.nyc/1Gl?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Gl?s=y"
+    ]
+  },
+  "neros::embedded engineer firmware intern software": {
+    "company": "Neros Technologies",
+    "notified_at": "2026-11-22T07:16:04.862124+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Firmware/Embedded Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1Go?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Go?s=y"
+    ]
+  },
+  "neros::embedded engineer firmware intern software summer": {
+    "company": "Neros Technologies",
+    "notified_at": "2026-11-22T07:16:04.862124+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Firmware/Embedded Software Engineer Intern - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+    "urls": [
+      "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007"
+    ]
+  },
   "netapp::analyst data intern": {
     "company": "NetApp",
     "notified_at": "2026-11-16T00:47:21.569354+00:00",
@@ -4468,6 +4516,18 @@
     "url": "https://go.vansh.nyc/1Eh?s=y",
     "urls": [
       "https://go.vansh.nyc/1Eh?s=y"
+    ]
+  },
+  "nvidia::and biology computing digital engineer intern marketing scientific technical": {
+    "company": "\ud83d\udd25 NVIDIA",
+    "notified_at": "2026-11-22T07:16:04.862124+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Technical Marketing Engineer Intern - Digital Biology and Scientific Computing",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793",
+    "urls": [
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793"
     ]
   },
   "nvidia::and biology computing digital engineering intern marketing scientific technical": {
@@ -6695,6 +6755,18 @@
     "url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/?ats=successfactors",
     "urls": [
       "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/?ats=successfactors"
+    ]
+  },
+  "wgu::intern technical": {
+    "company": "WGU",
+    "notified_at": "2026-11-22T07:16:04.862124+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Technical Intern",
+    "url": "https://go.vansh.nyc/1Gm?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Gm?s=y"
     ]
   },
   "whitecapsupply::corporate information intern security": {
