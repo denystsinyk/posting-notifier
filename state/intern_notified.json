@@ -441,6 +441,18 @@
       "https://argonne.wd1.myworkdayjobs.com/en-US/edu_pub/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702"
     ]
   },
+  "artefact::ai engineer intern": {
+    "company": "Artefact",
+    "notified_at": "2026-11-23T11:02:07.892096+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "AI Engineer Intern",
+    "url": "https://go.vansh.nyc/1Gz?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Gz?s=y"
+    ]
+  },
   "asml::analytics and data euv intern science": {
     "company": "ASML",
     "notified_at": "2026-11-13T23:17:31.228359+00:00",
@@ -1376,6 +1388,18 @@
       "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=8b5cdf5c-af19-431d-b135-9f2c62c4d002"
     ]
   },
+  "cas::development intern operations technology": {
+    "company": "CAS",
+    "notified_at": "2026-11-23T11:02:07.892096+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Technology Intern, Development Operations",
+    "url": "https://go.vansh.nyc/1GH?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1GH?s=y"
+    ]
+  },
   "cas::engineer infrastructure intern technology": {
     "company": "CAS",
     "notified_at": "2026-11-20T17:07:36.653641+00:00",
@@ -2050,6 +2074,66 @@
     "url": "https://go.vansh.nyc/1Gg?s=y",
     "urls": [
       "https://go.vansh.nyc/1Gg?s=y"
+    ]
+  },
+  "firstresonance::deployed engineering forward intern": {
+    "company": "First Resonance",
+    "notified_at": "2026-11-23T11:02:07.892096+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Forward Deployed Engineering Intern",
+    "url": "https://go.vansh.nyc/1GF?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1GF?s=y"
+    ]
+  },
+  "firstresonance::engineer intern platform software": {
+    "company": "First Resonance",
+    "notified_at": "2026-11-23T11:02:07.892096+00:00",
+    "sources": [
+      "SimplifyJobs/Summer2027-Internships"
+    ],
+    "title": "Software Engineer Intern - Platform",
+    "url": "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true",
+    "urls": [
+      "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true"
+    ]
+  },
+  "firstresonance::engineering intern platform software": {
+    "company": "First Resonance",
+    "notified_at": "2026-11-23T11:02:07.892096+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Software Engineering Intern, Platform",
+    "url": "https://go.vansh.nyc/1GE?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1GE?s=y"
+    ]
+  },
+  "firstresonance::engineering intern platform software summer": {
+    "company": "First Resonance",
+    "notified_at": "2026-11-23T11:02:07.892096+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Engineering Intern, Platform (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7",
+    "urls": [
+      "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7"
+    ]
+  },
+  "firstresonance::intern management product summer": {
+    "company": "First Resonance",
+    "notified_at": "2026-11-23T11:02:07.892096+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Product Management Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741",
+    "urls": [
+      "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741"
     ]
   },
   "fiserv::cybersecurity intern technology": {
@@ -4217,6 +4301,42 @@
       "https://job-boards.greenhouse.io/minitab/jobs/8200708003"
     ]
   },
+  "mitre::agentic ai and generative intern": {
+    "company": "MITRE",
+    "notified_at": "2026-11-23T11:02:07.892096+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Generative and Agentic AI Intern",
+    "url": "https://go.vansh.nyc/1GB?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1GB?s=y"
+    ]
+  },
+  "mitre::and cybersecurity information intern security": {
+    "company": "MITRE",
+    "notified_at": "2026-11-23T11:02:07.892096+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Cybersecurity and Information Security Intern",
+    "url": "https://go.vansh.nyc/1GC?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1GC?s=y"
+    ]
+  },
+  "mitre::electronics embedded intern prototype security": {
+    "company": "MITRE",
+    "notified_at": "2026-11-23T11:02:07.892096+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Embedded Security Intern, Electronics Prototype",
+    "url": "https://go.vansh.nyc/1GA?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1GA?s=y"
+    ]
+  },
   "mksinst::co engineer op software summer": {
     "company": "Mksinst",
     "notified_at": "2026-11-12T05:54:59.124079+00:00",
@@ -4606,6 +4726,18 @@
     "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663112",
     "urls": [
       "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663112"
+    ]
+  },
+  "northropgrumman::ai engineering intern ml": {
+    "company": "Northrop Grumman",
+    "notified_at": "2026-11-23T11:02:07.892096+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "AI/ML Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+    "url": "https://go.vansh.nyc/1GD?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1GD?s=y"
     ]
   },
   "nutanix::engineer intern software": {
@@ -6024,12 +6156,14 @@
     "company": "Sierra Space",
     "notified_at": "2026-11-20T23:16:01.665526+00:00",
     "sources": [
+      "SimplifyJobs/Summer2027-Internships",
       "vanshb03/Summer2027-Internships"
     ],
     "title": "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
     "url": "https://go.vansh.nyc/1EY?s=y",
     "urls": [
-      "https://go.vansh.nyc/1EY?s=y"
+      "https://go.vansh.nyc/1EY?s=y",
+      "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1"
     ]
   },
   "sierraspace::engineering internship software summer": {
@@ -6206,6 +6340,18 @@
     "urls": [
       "https://go.vansh.nyc/1AR?s=y",
       "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003"
+    ]
+  },
+  "southernfarmbureaulifeinsurance::applications development intern": {
+    "company": "Southern Farm Bureau Life Insurance",
+    "notified_at": "2026-11-23T11:02:07.892096+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Applications Development Intern",
+    "url": "https://go.vansh.nyc/1GG?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1GG?s=y"
     ]
   },
   "southernfarmbureaulifeinsurance::business data insights intelligence intern": {
