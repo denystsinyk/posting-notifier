@@ -5548,17 +5548,16 @@
   },
   "salliemae::engineer intern software": {
     "company": "Sallie Mae",
-    "notified_at": "2026-11-18T09:46:59.688006+00:00",
+    "notified_at": "2026-11-23T02:16:22.551600+00:00",
     "sources": [
       "SimplifyJobs/Summer2027-Internships",
       "vanshb03/Summer2027-Internships"
     ],
     "title": "Software Engineer Intern",
-    "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623",
+    "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688",
     "urls": [
-      "https://go.vansh.nyc/1C4?s=y",
-      "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633",
-      "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623"
+      "https://go.vansh.nyc/1Gx?s=y",
+      "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688"
     ]
   },
   "salliemae::engineering intern software": {
@@ -6506,6 +6505,18 @@
     "url": "https://go.vansh.nyc/1FB?s=y",
     "urls": [
       "https://go.vansh.nyc/1FB?s=y"
+    ]
+  },
+  "tdwilliamson::engineering intern": {
+    "company": "T.D. Williamson",
+    "notified_at": "2026-11-23T02:16:22.551600+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Engineering Intern",
+    "url": "https://go.vansh.nyc/1Gy?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Gy?s=y"
     ]
   },
   "tiktok::client data engineer foundation intern learning machine security": {
