@@ -636,6 +636,18 @@
       "https://argonne.wd1.myworkdayjobs.com/en-US/edu_pub/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702"
     ]
   },
+  "artefact::ai builder intern": {
+    "company": "Artefact",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "AI Builder Intern",
+    "url": "https://go.vansh.nyc/1J4?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1J4?s=y"
+    ]
+  },
   "artefact::ai engineer intern": {
     "company": "Artefact",
     "notified_at": "2026-11-23T11:02:07.892096+00:00",
@@ -778,12 +790,33 @@
     "company": "Bandwidth Inc.",
     "notified_at": "2026-11-25T02:56:29.282304+00:00",
     "sources": [
+      "SimplifyJobs/Summer2027-Internships",
       "vanshb03/Summer2027-Internships"
     ],
     "title": "Software Engineer Intern",
     "url": "https://go.vansh.nyc/1IS?s=y",
     "urls": [
-      "https://go.vansh.nyc/1IS?s=y"
+      "https://go.vansh.nyc/1IS?s=y",
+      "https://go.vansh.nyc/1IW?s=y",
+      "https://job-boards.greenhouse.io/bandwidth/jobs/8414426",
+      "https://job-boards.greenhouse.io/bandwidth/jobs/8414430",
+      "https://job-boards.greenhouse.io/bandwidth/jobs/8414436",
+      "https://job-boards.greenhouse.io/bandwidth/jobs/8414440",
+      "https://job-boards.greenhouse.io/bandwidth/jobs/8414444",
+      "https://job-boards.greenhouse.io/bandwidth/jobs/8414448",
+      "https://job-boards.greenhouse.io/bandwidth/jobs/8414452"
+    ]
+  },
+  "bandwidth::engineer intern software summer": {
+    "company": "Bandwidth",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414430",
+    "urls": [
+      "https://job-boards.greenhouse.io/bandwidth/jobs/8414430"
     ]
   },
   "bask::ai engineering intern": {
@@ -1882,6 +1915,18 @@
       "https://jobs.ashbyhq.com/clera/42992916-9ca1-48ca-9378-f4a13ea3733d"
     ]
   },
+  "cmu::development intern software stack": {
+    "company": "Cmu",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Full-Stack Software Development Intern",
+    "url": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-1",
+    "urls": [
+      "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-1"
+    ]
+  },
   "compassioninternational::and data engineering intern software": {
     "company": "Compassion International",
     "notified_at": "2026-11-20T00:33:01.239771+00:00",
@@ -1892,6 +1937,18 @@
     "url": "https://go.vansh.nyc/1DA?s=y",
     "urls": [
       "https://go.vansh.nyc/1DA?s=y"
+    ]
+  },
+  "connectprep::analyst data intern": {
+    "company": "ConnectPrep",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Data Analyst Intern",
+    "url": "https://go.vansh.nyc/1J5?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1J5?s=y"
     ]
   },
   "constellationbrands::ai and data enablement intern": {
@@ -2150,6 +2207,18 @@
       "https://dontpaniclabs.bamboohr.com/careers/38"
     ]
   },
+  "dover::intern management product": {
+    "company": "Dover",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Product Management Intern",
+    "url": "https://dover.wd103.myworkdayjobs.com/Dover/job/Keosauqua-Iowa-USA/Product-Management-Intern_JR102326",
+    "urls": [
+      "https://dover.wd103.myworkdayjobs.com/Dover/job/Keosauqua-Iowa-USA/Product-Management-Intern_JR102326"
+    ]
+  },
   "draftkings::data engineer intern": {
     "company": "DraftKings",
     "notified_at": "2026-11-20T17:07:36.653641+00:00",
@@ -2274,6 +2343,18 @@
       "https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=542e34a6-1977-4fcb-a173-6f32705efcb8"
     ]
   },
+  "enfos::engineer intern software summer": {
+    "company": "ENFOS",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/enfos/jobs/4469165009",
+    "urls": [
+      "https://job-boards.greenhouse.io/enfos/jobs/4469165009"
+    ]
+  },
   "engen::analyst data engineer intern undergraduate": {
     "company": "enGen",
     "notified_at": "2026-11-20T08:06:24.896499+00:00",
@@ -2388,6 +2469,7 @@
     "company": "Esri",
     "notified_at": "2026-11-24T18:39:55.699886+00:00",
     "sources": [
+      "ApplyGuy/2027-Internships",
       "SimplifyJobs/Summer2027-Internships",
       "vanshb03/Summer2027-Internships"
     ],
@@ -2494,6 +2576,18 @@
     "url": "https://go.vansh.nyc/1zj?s=y",
     "urls": [
       "https://go.vansh.nyc/1zj?s=y"
+    ]
+  },
+  "fireflyspace::engineering internship software spring": {
+    "company": "Fireflyspace",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Internship - Software Engineering - Spring 2027",
+    "url": "https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188",
+    "urls": [
+      "https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188"
     ]
   },
   "firstpremierbank::information intern security": {
@@ -2887,6 +2981,18 @@
       "https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3"
     ]
   },
+  "geniusai::engineer intern software winter": {
+    "company": "Genius AI",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Engineer Intern Winter 2026-2027",
+    "url": "https://jobs.ashbyhq.com/geniusai/96ebddc5-6ed4-4e68-813b-55d44c315b27",
+    "urls": [
+      "https://jobs.ashbyhq.com/geniusai/96ebddc5-6ed4-4e68-813b-55d44c315b27"
+    ]
+  },
   "gentuity::co engineer op software": {
     "company": "Gentuity",
     "notified_at": "2026-11-20T00:33:01.239771+00:00",
@@ -3059,6 +3165,18 @@
       "https://go.vansh.nyc/1EO?s=y"
     ]
   },
+  "hearst::engineering intern software": {
+    "company": "Hearst",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/hearst/jobs/4466334009",
+    "urls": [
+      "https://job-boards.greenhouse.io/hearst/jobs/4466334009"
+    ]
+  },
   "heartflow::engineering intern platform": {
     "company": "HeartFlow",
     "notified_at": "2026-11-20T00:33:01.239771+00:00",
@@ -3184,14 +3302,14 @@
   },
   "hiebing::agent ai developer intern": {
     "company": "Hiebing",
-    "notified_at": "2026-11-14T21:07:51.847050+00:00",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
     "sources": [
-      "speedyapply/2027-SWE-College-Jobs"
+      "ApplyGuy/2027-Internships"
     ],
     "title": "AI Agent Developer Intern",
-    "url": "https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern",
+    "url": "https://hiebing.applytojob.com/apply/yIhDpeWv4F",
     "urls": [
-      "https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern"
+      "https://hiebing.applytojob.com/apply/yIhDpeWv4F"
     ]
   },
   "highmarkhealth::analyst engen intern technical undergraduate": {
@@ -3732,6 +3850,18 @@
       "https://go.vansh.nyc/1IA?s=y"
     ]
   },
+  "insciphercareers::ai intern product": {
+    "company": "Inscipher Careers",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "AI Product Intern",
+    "url": "https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c",
+    "urls": [
+      "https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c"
+    ]
+  },
   "instilsoftware::engineer intern placement software": {
     "company": "Instil Software Ltd",
     "notified_at": "2026-11-16T17:58:22.289827+00:00",
@@ -3842,6 +3972,18 @@
       "https://jabil.wd5.myworkdayjobs.com/en-US/jabil_careers/job/Austin-TX/Software-Engineering-Intern_J2472697"
     ]
   },
+  "jainglobal::data engineer intern": {
+    "company": "Jainglobal",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Data Engineer Intern",
+    "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1",
+    "urls": [
+      "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1"
+    ]
+  },
   "jci::air engineering handling intern management product": {
     "company": "Jci",
     "notified_at": "2026-11-25T02:56:29.282304+00:00",
@@ -3912,6 +4054,18 @@
     "url": "https://go.vansh.nyc/1IE?s=y",
     "urls": [
       "https://go.vansh.nyc/1IE?s=y"
+    ]
+  },
+  "johnshopkinsappliedphysicslaboratory::cyber intern physical systems": {
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Cyber Physical Systems Intern",
+    "url": "https://go.vansh.nyc/1IY?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1IY?s=y"
     ]
   },
   "johnshopkinsappliedphysicslaboratory::intern robotics": {
@@ -4027,17 +4181,14 @@
   },
   "kla::applications engineering intern software": {
     "company": "KLA",
-    "notified_at": "2026-11-20T00:33:01.239771+00:00",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
     "sources": [
-      "speedyapply/2027-SWE-College-Jobs",
-      "vanshb03/Summer2027-Internships"
+      "ApplyGuy/2027-Internships"
     ],
     "title": "Software Applications Engineering Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337",
+    "url": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337",
     "urls": [
-      "https://go.vansh.nyc/1EB?s=y",
-      "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337-1",
-      "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337"
+      "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337"
     ]
   },
   "kla::engineer intern software": {
@@ -4066,14 +4217,14 @@
   },
   "kla::firmware intern": {
     "company": "KLA",
-    "notified_at": "2026-11-17T01:50:19.105770+00:00",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
     "sources": [
-      "vanshb03/Summer2027-Internships"
+      "ApplyGuy/2027-Internships"
     ],
     "title": "Firmware Intern",
-    "url": "https://go.vansh.nyc/1AJ?s=y",
+    "url": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Firmware-Intern_2642154",
     "urls": [
-      "https://go.vansh.nyc/1AJ?s=y"
+      "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Firmware-Intern_2642154"
     ]
   },
   "kududynamics::developer intern software": {
@@ -4098,6 +4249,18 @@
     "url": "https://go.vansh.nyc/1Hh?s=y",
     "urls": [
       "https://go.vansh.nyc/1Hh?s=y"
+    ]
+  },
+  "l3harris::engineer intern software": {
+    "company": "L3Harris Technologies",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1J1?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1J1?s=y"
     ]
   },
   "labcorp::bioinformatics intern": {
@@ -4502,6 +4665,18 @@
       "https://go.vansh.nyc/1BA?s=y"
     ]
   },
+  "lunaroutpost::intern management software summer": {
+    "company": "Lunaroutpost",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Management Intern - Summer 2027",
+    "url": "https://lunaroutpost.bamboohr.com/careers/420",
+    "urls": [
+      "https://lunaroutpost.bamboohr.com/careers/420"
+    ]
+  },
   "lutron::and data intern learning machine science": {
     "company": "Lutron",
     "notified_at": "2026-11-20T00:33:01.239771+00:00",
@@ -4762,16 +4937,40 @@
       "https://go.vansh.nyc/1Ei?s=y"
     ]
   },
-  "martinmarietta::data engineer integration intern software": {
-    "company": "Martin Marietta",
-    "notified_at": "2026-11-13T23:17:31.228359+00:00",
+  "mariastechnology::developer intern software": {
+    "company": "Mariastechnology",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
     "sources": [
-      "vanshb03/Summer2027-Internships"
+      "ApplyGuy/2027-Internships"
     ],
-    "title": "Software Data Integration Engineer Intern",
-    "url": "https://go.vansh.nyc/1zf?s=y",
+    "title": "Software Developer Intern",
+    "url": "https://mariastechnology.bamboohr.com/careers/27",
     "urls": [
-      "https://go.vansh.nyc/1zf?s=y"
+      "https://mariastechnology.bamboohr.com/careers/27"
+    ]
+  },
+  "mariastechnology::intern software tester": {
+    "company": "Mariastechnology",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Tester Intern",
+    "url": "https://mariastechnology.bamboohr.com/careers/25",
+    "urls": [
+      "https://mariastechnology.bamboohr.com/careers/25"
+    ]
+  },
+  "martinmarietta::data engineer integration intern software": {
+    "company": "Martinmarietta",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Intern, Software Data Integration Engineer",
+    "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
+    "urls": [
+      "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146"
     ]
   },
   "martinmarietta::data intern scientist": {
@@ -5250,6 +5449,18 @@
       "https://go.vansh.nyc/1FE?s=y"
     ]
   },
+  "motorola::engineering intern software": {
+    "company": "Motorola",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1J2?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1J2?s=y"
+    ]
+  },
   "motorolasolutions::critical engineer intern mission networks software": {
     "company": "Motorola Solutions",
     "notified_at": "2026-11-23T22:50:23.217383+00:00",
@@ -5492,6 +5703,18 @@
       "https://go.vansh.nyc/1zs?s=y"
     ]
   },
+  "neurospark::content developer gtm intern relations technical": {
+    "company": "Neurospark",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "GTM Intern \u2013 Developer Relations & Technical Content",
+    "url": "https://ats.rippling.com/neurospark/jobs/d6274edb-bd4d-4286-baea-faafb196df42",
+    "urls": [
+      "https://ats.rippling.com/neurospark/jobs/d6274edb-bd4d-4286-baea-faafb196df42"
+    ]
+  },
   "nexteraenergy::engineering intern software technical": {
     "company": "NextEra Energy",
     "notified_at": "2026-11-14T03:27:35.942804+00:00",
@@ -5528,6 +5751,18 @@
     "url": "https://go.vansh.nyc/1C8?s=y",
     "urls": [
       "https://go.vansh.nyc/1C8?s=y"
+    ]
+  },
+  "nikkisocleanenergyindustrialgases::intern management product": {
+    "company": "Nikkiso Clean Energy & Industrial Gases",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Product Management Intern",
+    "url": "https://careers-nikkiso.icims.com/jobs/4528/product-management-intern/job",
+    "urls": [
+      "https://careers-nikkiso.icims.com/jobs/4528/product-management-intern/job"
     ]
   },
   "nintendo::audio engineer intern software": {
@@ -5662,6 +5897,18 @@
       "https://go.vansh.nyc/1GD?s=y"
     ]
   },
+  "nottinghamspirk::co firmware op spring": {
+    "company": "Nottingham Spirk",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Firmware Spring 2027 Co-Op",
+    "url": "https://nottinghamspirk.applytojob.com/apply/udpROpEzBV",
+    "urls": [
+      "https://nottinghamspirk.applytojob.com/apply/udpROpEzBV"
+    ]
+  },
   "nutanix::engineer intern software": {
     "company": "Nutanix",
     "notified_at": "2026-11-20T00:33:01.239771+00:00",
@@ -5734,6 +5981,30 @@
       "https://go.vansh.nyc/1Gd?s=y"
     ]
   },
+  "nvidia::engineering intern simulation software summer technology": {
+    "company": "NVIDIA",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Engineering Intern, Simulation Technology - Summer 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531",
+    "urls": [
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531"
+    ]
+  },
+  "nvidia::engineering intern simulation software technology": {
+    "company": "NVIDIA",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Software Engineering Intern, Simulation Technology",
+    "url": "https://go.vansh.nyc/1J0?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1J0?s=y"
+    ]
+  },
   "octantbio::engineering intern software": {
     "company": "Octant Bio",
     "notified_at": "2026-11-13T02:25:22.494302+00:00",
@@ -5795,6 +6066,18 @@
     "url": "https://go.vansh.nyc/1zK?s=y",
     "urls": [
       "https://go.vansh.nyc/1zK?s=y"
+    ]
+  },
+  "p3it::cloud engineer intern": {
+    "company": "P 3 It",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Cloud Engineer Intern",
+    "url": "https://p3it.bamboohr.com/careers/37",
+    "urls": [
+      "https://p3it.bamboohr.com/careers/37"
     ]
   },
   "paccar::ai definition driven intern vehicle": {
@@ -5897,14 +6180,38 @@
   },
   "pathlabs::ai and engineering intern software": {
     "company": "Pathlabs",
-    "notified_at": "2026-11-18T01:46:26.933825+00:00",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software and AI Engineering Intern",
+    "url": "https://pathlabs.applytojob.com/apply/qW73dwA0iS",
+    "urls": [
+      "https://pathlabs.applytojob.com/apply/qW73dwA0iS"
+    ]
+  },
+  "patientpoint::data engineer intern": {
+    "company": "PatientPoint",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
     "sources": [
       "vanshb03/Summer2027-Internships"
     ],
-    "title": "Software and AI Engineering Intern",
-    "url": "https://go.vansh.nyc/1BC?s=y",
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/1J3?s=y",
     "urls": [
-      "https://go.vansh.nyc/1BC?s=y"
+      "https://go.vansh.nyc/1J3?s=y"
+    ]
+  },
+  "patientpointinviteonly::data engineer intern": {
+    "company": "PatientPoint - Invite Only",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Data Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005",
+    "urls": [
+      "https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005"
     ]
   },
   "pebl::devsecops intern": {
@@ -6025,6 +6332,18 @@
     "url": "https://go.vansh.nyc/1Bh?s=y",
     "urls": [
       "https://go.vansh.nyc/1Bh?s=y"
+    ]
+  },
+  "prospectequities::backend developer frontend intern": {
+    "company": "Prospect Equities",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Backend / Frontend Developer Intern",
+    "url": "https://prospectequities.applytojob.com/apply/XTbzSAcNtg",
+    "urls": [
+      "https://prospectequities.applytojob.com/apply/XTbzSAcNtg"
     ]
   },
   "ptc::cad cloud data engineering intern management stack": {
@@ -6503,13 +6822,15 @@
     "company": "Rockwell Automation",
     "notified_at": "2026-11-22T21:33:35.761832+00:00",
     "sources": [
+      "ApplyGuy/2027-Internships",
       "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Intern - Content IDE Software Development - LCS",
     "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1",
     "urls": [
       "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1",
-      "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2"
+      "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2",
+      "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1"
     ]
   },
   "rockwellautomation::content development ide intern software": {
@@ -6537,16 +6858,30 @@
       "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2"
     ]
   },
+  "rockwellautomation::developer engineering intern software": {
+    "company": "Rockwellautomation",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Intern, Software Developer/Engineering",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-1",
+    "urls": [
+      "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-1"
+    ]
+  },
   "rockwellautomation::engineer intern software": {
     "company": "Rockwell Automation",
     "notified_at": "2026-11-24T06:47:10.280889+00:00",
     "sources": [
+      "ApplyGuy/2027-Internships",
       "vanshb03/Summer2027-Internships"
     ],
     "title": "Software Engineer Intern \ud83d\udec2",
     "url": "https://go.vansh.nyc/1HN?s=y",
     "urls": [
-      "https://go.vansh.nyc/1HN?s=y"
+      "https://go.vansh.nyc/1HN?s=y",
+      "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-1"
     ]
   },
   "rockwellautomation::engineering firmware intern": {
@@ -6799,12 +7134,14 @@
     "company": "SambaNova",
     "notified_at": "2026-11-25T02:56:29.282304+00:00",
     "sources": [
+      "SimplifyJobs/Summer2027-Internships",
       "vanshb03/Summer2027-Internships"
     ],
     "title": "Runtime Engineer Intern",
     "url": "https://go.vansh.nyc/1IR?s=y",
     "urls": [
-      "https://go.vansh.nyc/1IR?s=y"
+      "https://go.vansh.nyc/1IR?s=y",
+      "https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004"
     ]
   },
   "samsungsemiconductor::acceleration accelerators architecture centric distributed inference intern llm memory": {
@@ -7228,6 +7565,30 @@
       "https://go.vansh.nyc/1HH?s=y"
     ]
   },
+  "shield::5796 automation intern software summer test": {
+    "company": "Shield",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "2027 Summer Intern - Software Test Automation - 5796",
+    "url": "https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86",
+    "urls": [
+      "https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86"
+    ]
+  },
+  "shield::5815 engineering intern software summer": {
+    "company": "Shield",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "2027 Summer Intern - Software Engineering - 5815",
+    "url": "https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503",
+    "urls": [
+      "https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503"
+    ]
+  },
   "shield::automation intern software test": {
     "company": "Shield",
     "notified_at": "2026-11-25T02:56:29.282304+00:00",
@@ -7238,6 +7599,30 @@
     "url": "https://go.vansh.nyc/1IK?s=y",
     "urls": [
       "https://go.vansh.nyc/1IK?s=y"
+    ]
+  },
+  "shield::co engineer intern june op software": {
+    "company": "Shield",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "June 2027 Co-Op - Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2",
+    "urls": [
+      "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2"
+    ]
+  },
+  "shield::engineer intern software summer": {
+    "company": "Shield",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Summer 2027 - Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a",
+    "urls": [
+      "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a"
     ]
   },
   "shield::engineering intern software": {
@@ -7954,6 +8339,18 @@
       "https://go.vansh.nyc/1Ha?s=y"
     ]
   },
+  "subtotal::engineering intern software": {
+    "company": "Subtotal",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801",
+    "urls": [
+      "https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801"
+    ]
+  },
   "symbotic::end engineer front intern software": {
     "company": "Symbotic",
     "notified_at": "2026-11-20T17:07:36.653641+00:00",
@@ -7981,6 +8378,18 @@
     "url": "https://go.vansh.nyc/1Co?s=y",
     "urls": [
       "https://go.vansh.nyc/1Co?s=y"
+    ]
+  },
+  "takeda::complaint developer digital internship program summer system": {
+    "company": "Takeda",
+    "notified_at": "2026-11-25T12:17:51.536339+00:00",
+    "sources": [
+      "ApplyGuy/2027-Internships"
+    ],
+    "title": "2027 Summer Internship Program: Digital Complaint System Developer",
+    "url": "https://takeda.wd502.myworkdayjobs.com/external/job/Lexington-MA/XMLNAME-2027-Summer-Internship-Program--Digital-Complaint-System-Developer_R0193480",
+    "urls": [
+      "https://takeda.wd502.myworkdayjobs.com/external/job/Lexington-MA/XMLNAME-2027-Summer-Internship-Program--Digital-Complaint-System-Developer_R0193480"
     ]
   },
   "tasimeasurement::embedded engineer intern": {
@@ -8085,12 +8494,14 @@
     "company": "T-Mobile",
     "notified_at": "2026-11-22T21:33:35.761832+00:00",
     "sources": [
+      "ApplyGuy/2027-Internships",
       "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Summer 2027 Software Engineering Internship",
     "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ383767",
     "urls": [
-      "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ383767"
+      "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ383767",
+      "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ382091"
     ]
   },
   "toyotaresearchinstitute::agentic intern robotics": {
