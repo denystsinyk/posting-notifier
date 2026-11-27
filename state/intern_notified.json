@@ -191,6 +191,18 @@
       "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Grad-Intern_R016715"
     ]
   },
+  "aerospace::embedded engineering intern software": {
+    "company": "Aerospace",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "2027 Embedded Software Engineering Grad Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950",
+    "urls": [
+      "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950"
+    ]
+  },
   "aerospace::embedded engineering intern software undergrad": {
     "company": "Aerospace Corporation",
     "notified_at": "2026-11-25T21:55:05.153423+00:00",
@@ -302,14 +314,13 @@
   },
   "allegion::assurance engineering intern quality software summer": {
     "company": "Allegion",
-    "notified_at": "2026-11-20T00:33:01.239771+00:00",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Summer Intern - Software Engineering - Quality Assurance",
-    "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1",
+    "url": "https://allegion.wd5.myworkdayjobs.com/en-US/earlytalent_careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856",
     "urls": [
-      "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1",
       "https://allegion.wd5.myworkdayjobs.com/en-US/earlytalent_careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856"
     ]
   },
@@ -1470,7 +1481,7 @@
   },
   "blueorigin::conversion development engineer intern software": {
     "company": "Blue Origin",
-    "notified_at": "2026-11-21T19:56:32.467960+00:00",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -1506,7 +1517,7 @@
   },
   "boozallen::developer games hi honolulu intern software summer": {
     "company": "Booz Allen",
-    "notified_at": "2026-11-22T21:33:35.761832+00:00",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -2408,16 +2419,29 @@
   },
   "clearwateranalytics::development intern software": {
     "company": "Clearwater Analytics",
-    "notified_at": "2026-11-21T19:56:32.467960+00:00",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Development Intern",
     "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12187",
     "urls": [
-      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12098",
+      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12192",
       "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12186",
-      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12187"
+      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12187",
+      "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12188"
+    ]
+  },
+  "clera::engineer intern mobile product": {
+    "company": "Clera",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Product Engineer Intern, Mobile",
+    "url": "https://go.vansh.nyc/1Lw?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Lw?s=y"
     ]
   },
   "clera::engineering intern software stack": {
@@ -3745,6 +3769,18 @@
       "https://careers-gdms.icims.com/jobs/75808/job?mobile=true&needsRedirect=false"
     ]
   },
+  "generalmotors::adas adpt engineer intern software summer": {
+    "company": "General Motors",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "2027 Summer Intern- ADAS Software Engineer - ADPT",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
+    "urls": [
+      "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820"
+    ]
+  },
   "generalmotors::ai av engineer intern platform software verification": {
     "company": "General Motors",
     "notified_at": "2026-11-25T02:56:29.282304+00:00",
@@ -3839,6 +3875,19 @@
     "url": "https://go.vansh.nyc/1Jc?s=y",
     "urls": [
       "https://go.vansh.nyc/1Jc?s=y"
+    ]
+  },
+  "germanamericanbank::information intern security": {
+    "company": "German American Bank",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Information Security Intern",
+    "url": "https://go.vansh.nyc/1Ls?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Ls?s=y",
+      "https://go.vansh.nyc/1Lt?s=y"
     ]
   },
   "globalfoundries::ai analytics digital intern manufacturing ml": {
@@ -3943,7 +3992,7 @@
   },
   "gpc::cloud intern sre": {
     "company": "GPC",
-    "notified_at": "2026-11-22T21:33:35.761832+00:00",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -4834,7 +4883,7 @@
   },
   "insulet::co embedded engineering january june op software test": {
     "company": "Insulet",
-    "notified_at": "2026-11-20T00:33:01.239771+00:00",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -5211,7 +5260,7 @@
   },
   "kla::engineering intern software": {
     "company": "KLA",
-    "notified_at": "2026-11-20T00:33:01.239771+00:00",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -5444,12 +5493,29 @@
     "company": "Lockheed Martin",
     "notified_at": "2026-11-26T22:49:14.293460+00:00",
     "sources": [
+      "speedyapply/2027-SWE-College-Jobs",
       "vanshb03/Summer2027-Internships"
     ],
     "title": "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
     "url": "https://go.vansh.nyc/1Ki?s=y",
     "urls": [
-      "https://go.vansh.nyc/1Ki?s=y"
+      "https://go.vansh.nyc/1Ki?s=y",
+      "https://lockheedmartin.eightfold.ai/careers/job/996477984584",
+      "https://lockheedmartin.eightfold.ai/careers/job/996477988823",
+      "https://lockheedmartin.eightfold.ai/careers/job/996478048280",
+      "https://lockheedmartin.eightfold.ai/careers/job/996478149210"
+    ]
+  },
+  "lockheedmartin::engineering intern software": {
+    "company": "Lockheed Martin",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://lockheedmartin.eightfold.ai/careers/job/996477990205",
+    "urls": [
+      "https://lockheedmartin.eightfold.ai/careers/job/996477990205"
     ]
   },
   "londoncomputer::co developer intern op software": {
@@ -5747,7 +5813,7 @@
   },
   "lutron::beach boynton embedded engineering firmware fl intern summer": {
     "company": "Lutron",
-    "notified_at": "2026-11-21T19:56:32.467960+00:00",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -6254,7 +6320,8 @@
     "company": "Microsoft",
     "notified_at": "2026-11-26T13:42:40.891996+00:00",
     "sources": [
-      "ApplyGuy/2027-Internships"
+      "ApplyGuy/2027-Internships",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Research Intern - AI Software Systems",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
@@ -6290,7 +6357,8 @@
     "company": "Microsoft",
     "notified_at": "2026-11-26T13:42:40.891996+00:00",
     "sources": [
-      "ApplyGuy/2027-Internships"
+      "ApplyGuy/2027-Internships",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Research Intern - MSR Software-Hardware Co-design",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
@@ -6338,7 +6406,8 @@
     "company": "Microsoft",
     "notified_at": "2026-11-26T13:42:40.891996+00:00",
     "sources": [
-      "ApplyGuy/2027-Internships"
+      "ApplyGuy/2027-Internships",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Research Intern - Firmware Security",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
@@ -7620,6 +7689,18 @@
       "https://go.vansh.nyc/1Bt?s=y"
     ]
   },
+  "qualcomm::cloud engineering infrastructure internship it summer": {
+    "company": "Qualcomm",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "IT Infrastructure & Cloud Engineering Internship - Summer 2027",
+    "url": "https://careers.qualcomm.com/careers/job/446720741668",
+    "urls": [
+      "https://careers.qualcomm.com/careers/job/446720741668"
+    ]
+  },
   "qualcomm::compiler development engineering gpu hw interim intern": {
     "company": "Qualcomm",
     "notified_at": "2026-11-19T00:58:20.979712+00:00",
@@ -7642,6 +7723,30 @@
     "url": "https://go.vansh.nyc/1Cy?s=y",
     "urls": [
       "https://go.vansh.nyc/1Cy?s=y"
+    ]
+  },
+  "qualcomm::embedded engineering internship summer": {
+    "company": "Qualcomm",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Embedded Engineering Internship - Summer 2027",
+    "url": "https://careers.qualcomm.com/careers/job/446720737089",
+    "urls": [
+      "https://careers.qualcomm.com/careers/job/446720737089"
+    ]
+  },
+  "qualcomm::engineering internship software summer": {
+    "company": "Qualcomm",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineering Internship - Summer 2027",
+    "url": "https://careers.qualcomm.com/careers/job/446720740529",
+    "urls": [
+      "https://careers.qualcomm.com/careers/job/446720740529"
     ]
   },
   "queracomputing::intern management product technical": {
@@ -7960,6 +8065,18 @@
       "https://go.vansh.nyc/1vV?s=y"
     ]
   },
+  "richmondnational::cyber intern security": {
+    "company": "Richmond National",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Cyber Security Intern",
+    "url": "https://go.vansh.nyc/1Lu?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Lu?s=y"
+    ]
+  },
   "riotgames::and design game intern league legends of tactics teamfight technical": {
     "company": "Riot Games",
     "notified_at": "2026-11-12T05:54:59.124079+00:00",
@@ -7970,6 +8087,18 @@
     "url": "https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525",
     "urls": [
       "https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525"
+    ]
+  },
+  "rippling::engineer intern learning machine software summer": {
+    "company": "Rippling",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Machine Learning Software Engineer Intern - Summer 2027",
+    "url": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+    "urls": [
+      "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d"
     ]
   },
   "rivian::ai autonomy engineering intern platform software": {
@@ -8036,17 +8165,14 @@
   },
   "rockwellautomation::content development ide intern lcs software": {
     "company": "Rockwell Automation",
-    "notified_at": "2026-11-22T21:33:35.761832+00:00",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
     "sources": [
-      "ApplyGuy/2027-Internships",
       "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Intern - Content IDE Software Development - LCS",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2",
     "urls": [
-      "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1",
-      "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2",
-      "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1"
+      "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2"
     ]
   },
   "rockwellautomation::content development ide intern software": {
@@ -9638,14 +9764,16 @@
     "company": "Statestreet",
     "notified_at": "2026-11-25T02:56:29.282304+00:00",
     "sources": [
-      "ApplyGuy/2027-Internships"
+      "ApplyGuy/2027-Internships",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Engineering Intern - Full-time Internship (Jan - June 2027)",
     "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801272",
     "urls": [
       "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801272",
       "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801504",
-      "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801237"
+      "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801237",
+      "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801237"
     ]
   },
   "steel::engineer intern software": {
@@ -10001,6 +10129,18 @@
     "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Software-Engineer-Internship_REQ381357",
     "urls": [
       "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Software-Engineer-Internship_REQ381357"
+    ]
+  },
+  "tmobile::engineering intern software": {
+    "company": "T-Mobile",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
+    "sources": [
+      "vanshb03/Summer2027-Internships"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1Lq?s=y",
+    "urls": [
+      "https://go.vansh.nyc/1Lq?s=y"
     ]
   },
   "tmobile::engineering intern software summer": {
@@ -10595,6 +10735,18 @@
     "url": "https://go.vansh.nyc/1FJ?s=y",
     "urls": [
       "https://go.vansh.nyc/1FJ?s=y"
+    ]
+  },
+  "waters::development engineer intern it platform software": {
+    "company": "Waters",
+    "notified_at": "2026-11-27T23:14:54.332645+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "IT Intern - Software Development Platform Engineer",
+    "url": "https://uscareers-waters.icims.com/jobs/30388/it-intern---software-development-platform-engineer/job",
+    "urls": [
+      "https://uscareers-waters.icims.com/jobs/30388/it-intern---software-development-platform-engineer/job"
     ]
   },
   "waters::digital intern it": {
